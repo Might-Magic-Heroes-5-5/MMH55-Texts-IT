@@ -1,0 +1,1 @@
+﻿Un'abilità di combattimento speciale che colpisce tutte le unità amiche, che aumenta Attacco, Difesa e Morale di 2 e Iniziativa del 10%. La durata dell'effetto è di 2+0.1*(livello dell'eroe) turni (non funziona su non-morti o creature meccaniche). Il valore ATB dell'eroe viene ripristinato a 0.15 dopo l'uso.

@@ -1,0 +1,3 @@
+﻿+5 Potere magico<br>
+-1 Morale<br><br><color=orange>
+Mummie<color_default><br>Brucia questo artefatto in un tempio ed evocherà una pila di mummie. La dimensione della pila è pari a 3*numero di settimane trascorse.

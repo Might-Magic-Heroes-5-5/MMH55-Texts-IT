@@ -1,0 +1,1 @@
+﻿Classe: Capoguerra<br>Specializzazione: Aggressore<br><br><body_bright>L'eroe inizia con +1 Attacco e lo aumenta ulteriormente di +1 ogni 7 livelli.<br><br><color=orange>Veterano<color_default><br>Inizia con l'Apprendimento di base.

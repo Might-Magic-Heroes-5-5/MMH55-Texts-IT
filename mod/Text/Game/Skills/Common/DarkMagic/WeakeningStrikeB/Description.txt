@@ -1,0 +1,1 @@
+﻿L'eroe colpisce il bersaglio con una maledizione che diminuisce il suo attacco.<br><color_default>L'effetto è lo stesso dell'incantesimo Sofferenza al livello Nullo e quindi riduce l'attacco di -4 + -0,15 per Potere magico.

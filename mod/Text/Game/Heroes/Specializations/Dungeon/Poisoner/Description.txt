@@ -1,0 +1,1 @@
+﻿Maestro dei veleni: le unità nemiche possono entrare in combattimento già avvelenate. Le probabilità sono del 10%+livello dell'eroe*1%, per ogni unità nemica. Il Mana dell'eroe non viene prosciugato. La protezione magica dei bersagli riduce l'effetto Deperimento, ma lo Specchio magico non funziona.

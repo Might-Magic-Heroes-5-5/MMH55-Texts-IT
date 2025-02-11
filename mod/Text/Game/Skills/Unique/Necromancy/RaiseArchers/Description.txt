@@ -1,0 +1,1 @@
+﻿Consente all'eroe di destare Scheletri arcieri invece che semplici Scheletri.

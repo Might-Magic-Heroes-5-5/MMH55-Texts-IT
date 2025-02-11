@@ -1,0 +1,1 @@
+﻿Sei l'unico giocatore umano sulla mappa, vorresti una sfida e far collaborare tutti i giocatori IA contro di te? (Premi sempre Annulla se stai giocando uno scenario, una campagna o una mappa con le proprie impostazioni di squadra!)

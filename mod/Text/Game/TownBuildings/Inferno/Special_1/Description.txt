@@ -1,0 +1,1 @@
+﻿Per i Guardiani, il numero di creature evocate aumenta del 5% (cumulativo con più città)<br><br>I Signori dei demoni ottengono +1 Difesa e Stregoni +1 Conoscenza (cumulativo con più città e non richiede la visita della città).<br><br>Gli eroi nemici che assediano questa città ottengono -2 alla Fortuna.

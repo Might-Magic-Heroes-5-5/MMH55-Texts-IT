@@ -1,0 +1,1 @@
+﻿Se selezionato, viene mostrato in combattimento il valore ATB per ogni unità. Quando il valore ATB di un'unità raggiunge 1, agirà in combattimento. I valori ATB possono essere manipolati in combattimento con le abilità.

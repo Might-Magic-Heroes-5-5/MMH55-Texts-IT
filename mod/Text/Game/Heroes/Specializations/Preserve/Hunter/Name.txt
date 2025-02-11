@@ -1,0 +1,1 @@
+﻿Classe: Ranger<br>Specializzazione: Maestro della caccia<br><br><body_bright>Tutti i Cacciatori, Maestri cacciatori e Arcieri arcani nell'esercito dell'eroe ottengono +1 Attacco e Difesa per ogni due livelli dell'eroe, a partire dal primo livello.<br><color_default>Inizia con l'abilità Fortuna del soldato.

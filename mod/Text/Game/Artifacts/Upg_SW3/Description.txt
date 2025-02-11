@@ -1,0 +1,2 @@
+﻿-1 Morale alle unità nemiche<br>
+-1 Fortuna alle unità nemiche

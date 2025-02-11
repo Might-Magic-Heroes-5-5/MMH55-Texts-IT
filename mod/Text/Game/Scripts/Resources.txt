@@ -1,0 +1,1 @@
+﻿<color=yellow><TextAmount> <TextType> sono stati aggiunti alle tue risorse.

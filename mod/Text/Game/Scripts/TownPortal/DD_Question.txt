@@ -1,0 +1,8 @@
+﻿La Porta Dimensionale ti permetterà di visitare qualsiasi tua città senza cambiare la posizione dell'eroe. Se la città ha una Gilda dei Maghi, il mana verrà ripristinato immediatamente.
+-------------------------------------------------- -----------------------
+
+OK = Visita la città e ripristina il mana
+Annulla = Ripristina solo il mana
+
+-------------------------------------------------- -----------------------
+Per terminare la visita allontanati di una casella dalla Porta o rivisita l'oggetto. La visita terminerà se l'eroe tenta di entrare nella guarnigione della città o se un eroe nemico si avvicina entro un raggio di 8 caselle attorno all'eroe o alla città che viene visitata.

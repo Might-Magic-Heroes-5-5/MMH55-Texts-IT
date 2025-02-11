@@ -1,0 +1,1 @@
+﻿Infligge danni di terra a tutte le unità nella zona del bersaglio (Forma a croce a 5 caselle).

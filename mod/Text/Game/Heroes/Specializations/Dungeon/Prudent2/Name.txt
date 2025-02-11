@@ -1,0 +1,1 @@
+﻿Classe: Mago<br>Specializzazione: Intimidire<br><br><body_bright>Le unità nemiche subiscono penalità all'Iniziativa, a seconda del livello dell'eroe. L'iniziativa del nemico è ridotta del 2% + 0,2% per livello dell'eroe.<br><color_default>Inizia con la Magia oscura di base.

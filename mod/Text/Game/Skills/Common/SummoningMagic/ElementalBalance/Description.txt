@@ -1,0 +1,1 @@
+﻿L'eroe apprende l'incantesimo Evocazione degli elementali e ogni volta che il nemico evoca elementali, l'eroe evocherà immediatamente la stessa quantità di elementali dell'allineamento opposto. Se viene evocata una fenice, l'eroe evocherà un suo clone perfetto.

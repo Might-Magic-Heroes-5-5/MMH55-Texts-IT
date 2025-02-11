@@ -1,0 +1,1 @@
+﻿L'eroe acquisisce l'artefatto Kit di aiuti al combattimento e i Punti ferita di tutte le unità nell'esercito dell'eroe aumentano di 2 in modo permanente.<color_default><br>Gli eroi della Necropoli ottengono solo il bonus dei Punti ferita.

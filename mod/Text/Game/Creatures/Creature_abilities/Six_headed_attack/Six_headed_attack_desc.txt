@@ -1,0 +1,1 @@
+﻿L'unità attacca tutte le unità nemiche che la circondano in contemporanea.

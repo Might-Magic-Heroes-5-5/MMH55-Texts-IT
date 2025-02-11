@@ -1,0 +1,1 @@
+﻿Crea un alveare di vespe nel punto del campo selezionato. L'alveare attaccherà le unità nemiche con sciami di vespe di livello avanzato fino alla fine del combattimento o finché l'alveare non verrà attaccato e distrutto (l'alveare non attaccherà unità non-morte, elementali e meccaniche). L'Alveare impedisce ai tiratori adiacenti di sparare.

@@ -1,0 +1,1 @@
+﻿<color_default>-<value=initiative> Iniziativa, -<value=speed> Velocità

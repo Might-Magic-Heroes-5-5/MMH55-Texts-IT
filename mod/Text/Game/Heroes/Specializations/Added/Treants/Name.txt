@@ -1,0 +1,1 @@
+﻿Classe: Ranger<br>Specializzazione: Guardiano della foresta<br><br><body_bright>L'eroe inizia con +2 Difesa e tutti gli Uomini albero, Uomini albero secolari e Uomini albero selvaggi nell'esercito dell'eroe agiranno immediatamente all'inizio del combattimento.<br><color_default>Inizia con la Difesa di base.

@@ -1,0 +1,1 @@
+﻿Per ogni casella coperta dall'unità durante l'attacco, la difesa del bersaglio viene ridotta del 7.5% (fino a 0).

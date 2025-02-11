@@ -1,0 +1,7 @@
+﻿+6 Conoscenza se equipaggiato<br>
++C/2 risorse casuali al giorno<br><color_default>
+(C=Conoscenza dell'eroe, se la risorsa casuale è oro, la quantità viene moltiplicata per 1000)<br><br><color=orange>
+Fenici<color_default><br>
+Getta questo artefatto in una Fontana della Fortuna ed evocherà una pila di Fenici. La dimensione della pila è pari a 2*numero di settimane trascorse.<br><br><color=yellow>
+Zaino<color_default><br>
+Le risorse si ottengono anche quando l'artefatto è nello zaino, ma la funzionalità è limitata a un artefatto per eroe.

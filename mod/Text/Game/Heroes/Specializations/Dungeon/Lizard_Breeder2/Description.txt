@@ -1,0 +1,1 @@
+﻿Allevatore di lucertole: un gruppo di Predoni oscuri si unisce all'esercito dell'eroe all'inizio del combattimento, la quantità è pari al 25% dei Predoni oscuri, Predoni infausti e Predoni fulminei che l'eroe ha già nel suo esercito. Inoltre, il danno dell'abilità Morso di lucertola è stato aumentato a 1,20 + 0,01 * livello dell'eroe (invece di 0,5).

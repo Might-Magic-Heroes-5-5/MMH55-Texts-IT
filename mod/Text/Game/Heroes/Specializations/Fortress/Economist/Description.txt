@@ -1,0 +1,1 @@
+﻿Sapiente: l'eroe inizia con +1 Conoscenza e apprende un attributo primario casuale ogni 6 livelli.

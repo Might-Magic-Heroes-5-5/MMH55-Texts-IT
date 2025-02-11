@@ -1,0 +1,2 @@
+﻿<color_default>Potenziamento dei Recinti Oscuri.<br> 
+<color_bright>I Cupi Recinti permettono di reclutare i Predoni Infausti e i Predoni Tetri.

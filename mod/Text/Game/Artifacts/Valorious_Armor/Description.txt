@@ -1,0 +1,4 @@
+﻿+1 Difesa<br>
++5 Conoscenza calcolata su tutti gli artefatti attivi<br><color_default>
++5 Difesa calcolata su tutti gli artefatti attivi<br><color_default>
+(Influisce su tutti gli artefatti attivi su questo eroe fornendo risorse, unità o resuscitando unità)

@@ -1,0 +1,4 @@
+﻿+1 Morale
++400 Punti movimento
+
+<color_default>Alcuni artefatti possono essere sacrificati qui.

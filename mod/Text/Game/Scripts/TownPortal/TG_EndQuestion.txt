@@ -1,0 +1,10 @@
+﻿-------------------------------------------------- ---------------------
+DIMISSIONI DEL GOVERNATORE
+-------------------------------------------------- ---------------------
+
+L'eroe rinuncerà al suo lavoro di governatore di questa città, perderà tutti i bonus relativi e recupererà tutti i suoi punti movimento fuori dal raggio della città.
+
+Multa per dimissioni anticipate: <value=fine>
+
+OK = Dimettersi da governatore
+Annulla = Rimani governatore

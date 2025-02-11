@@ -1,0 +1,1 @@
+﻿Spezzaincantesimi: tutte le unità nell'esercito dell'eroe ottengono il 5% di Resistenza magica e + 1% per livello dell'eroe.

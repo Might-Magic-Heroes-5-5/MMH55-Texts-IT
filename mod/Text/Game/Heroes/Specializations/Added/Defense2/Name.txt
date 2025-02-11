@@ -1,0 +1,1 @@
+﻿Classe: Ranger<br>Specializzazione: Guardiano della foresta<br><br><body_bright>L'eroe inizia con +1 Difesa e la aumenta ulteriormente di +1 ogni 7 livelli.<br><color_default>Inizia con le Macchine da guerra di base.

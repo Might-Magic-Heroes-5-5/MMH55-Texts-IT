@@ -1,0 +1,1 @@
+﻿Acceca l'unità nemica selezionata facendo in modo che non si possa muovere né attaccare né usare una qualsiasi abilità. La cecità scompare se l'unità accecata viene attaccata. Il Potere magico determina la durata degli effetti.<br><color_default>L'incantesimo non funziona sui non-morti, sugli elementali e sulle unità meccaniche.

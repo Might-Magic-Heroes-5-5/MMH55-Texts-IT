@@ -1,0 +1,1 @@
+﻿L'incantesimo runico <value=spell> non può essere imparato. Richiede <value=skill>.

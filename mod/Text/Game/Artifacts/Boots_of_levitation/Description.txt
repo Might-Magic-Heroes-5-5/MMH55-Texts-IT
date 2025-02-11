@@ -1,0 +1,2 @@
+﻿Conferisce l'abilità di camminare sull'acqua e di ignorare completamente le penalità del terreno. Il costo di movimento per tessera è ridotto di 25 (eccetto quando si viaggia su strade)<br><br><color=red>
+Levitato<color_default><br>Logistica e Orientamento non hanno effetto.

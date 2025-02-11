@@ -1,0 +1,1 @@
+﻿L'eroe ottiene +4 Difesa. Tutte le unità sotto il suo controllo ricevono solo il 50% di danno da tutti gli incantesimi di fuoco e sono immuni agli effetti dannosi dell'armatura dell'abilità Maestro delle Fiamme.

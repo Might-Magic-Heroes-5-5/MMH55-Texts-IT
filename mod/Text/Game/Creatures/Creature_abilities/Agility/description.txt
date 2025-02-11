@@ -1,0 +1,1 @@
+﻿Fino al turno successivo l'unità ottiene un bonus di +2 Difesa per ogni casella che percorre.

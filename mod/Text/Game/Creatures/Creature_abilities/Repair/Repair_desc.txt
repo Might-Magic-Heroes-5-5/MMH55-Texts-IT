@@ -1,0 +1,1 @@
+﻿Questa unità può riparare le unità meccaniche amiche (Golem) e le macchine da guerra una volta per combattimento (abilità da attivare). La quantità di Punti ferita riparati è pari a 2 per Folletto. Questa abilità richiede che almeno 20 Folletti siano presenti nel gruppo all'inizio del combattimento.

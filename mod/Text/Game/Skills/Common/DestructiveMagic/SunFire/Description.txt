@@ -1,0 +1,1 @@
+﻿L'eroe impara l'incantesimo Terremoto e invoca le forze della natura perché attacchino i maghi nemici. Ogni volta che uno di essi lancerà un incantesimo, riceverà danni pari a 30 volte il livello dell'eroe.<br><color_default>I Capoguerra non imparano Terremoto.

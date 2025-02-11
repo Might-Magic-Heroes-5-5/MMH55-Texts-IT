@@ -1,0 +1,1 @@
+﻿Attacco e Difesa di questa unità aumentano temporaneamente di +6 se il bersaglio è un'unità di grandi dimensioni.

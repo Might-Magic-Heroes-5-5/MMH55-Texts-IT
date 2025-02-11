@@ -1,0 +1,1 @@
+﻿Raddoppia la rigenerazione del mana basata sulla Conoscenza dell'eroe.<br><color_default>La rigenerazione del mana da artefatti, abilità o specializzazioni non è raddoppiata.

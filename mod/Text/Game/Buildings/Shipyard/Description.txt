@@ -1,0 +1,1 @@
+﻿Costruisce barche per attraversare il mare. Il movimento sull'acqua costa solo 75 punti per tessera.

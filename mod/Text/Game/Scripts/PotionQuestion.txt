@@ -1,0 +1,15 @@
+﻿-------------------------------------------------- -----------------------
+POSTAZIONE COMMERCIALE
+-------------------------------------------------- -----------------------
+
+Vorresti acquistare delle pozioni o scambiare risorse?
+
+OK = Acquista pozioni
+Annulla = Scambia risorse
+
+-------------------------------------------------- -----------------------
+PREZZI DELLE POZIONI
+-------------------------------------------------- -----------------------
+
+Pozione di Mana – 5000 oro
+Pozione di movimento - 10000 oro

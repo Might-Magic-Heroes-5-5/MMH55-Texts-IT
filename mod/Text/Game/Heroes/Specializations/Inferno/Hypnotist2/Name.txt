@@ -1,0 +1,1 @@
+﻿Classe: Mago delle rune<br>Specializzazione: Mietitore mentale<br><br><body_bright>L'eroe guadagna +1 Potere magico per ogni 7 livelli e l'incantesimo Confusione ha un effetto aggiuntivo che diminuisce il mana del bersaglio di un punto per ogni livello dell'eroe.<br><color_default>Inizia con l'abilità Maestro della mente.

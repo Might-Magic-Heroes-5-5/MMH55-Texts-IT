@@ -1,0 +1,1 @@
+﻿Questa unità può affrettare il turno delle unità amiche selezionate aumentando il loro ATB di 0,01 * SZ (= dimensione del gruppo di questa unità), ma non più di 0,6. Contemporaneamente verrà inflitto un danno pari a SZ (abilità da attivare).

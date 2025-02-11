@@ -1,0 +1,3 @@
+﻿+6 Potere magico<br>
++6 Conoscenza<br><br><color=yellow>Guardiani Primordiali<br><color_default>
+Evoca ogni settimana una Fenice nella guarnigione di ogni città posseduta che sia dello stesso allineamento dell'eroe, questo effetto funziona anche quando l'artefatto è nello zaino

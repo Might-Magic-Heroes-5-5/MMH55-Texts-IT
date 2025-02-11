@@ -1,0 +1,1 @@
+﻿Aumenta l'Attacco di tutte le unità dell'esercito di +3 e i loro punti Ferita di +2.

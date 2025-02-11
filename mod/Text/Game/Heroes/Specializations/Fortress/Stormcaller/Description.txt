@@ -1,0 +1,1 @@
+﻿Arciere arcano: l'eroe impara l'incantesimo Colpo di fulmine potenziato al livello 10 e l'incantesimo Fulmini a catena potenziati al livello 30, anche se non è in grado di apprendere l'abilità Incantesimi potenziati. Gli incantesimi fulminei infusi o lanciati da questo eroe ignorano la Resistenza magica, ma si applicano comunque le immunità e la Prova magica.

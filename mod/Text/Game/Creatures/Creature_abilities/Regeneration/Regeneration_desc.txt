@@ -1,0 +1,1 @@
+﻿Questa unità ripristina la propria salute per un ammontare pari ai punti ferita del 15% della dimensione del gruppo. La quantità è per battaglia, non per turno. Una volta utilizzato la quantità totale, le unità smettono di rigenerarsi.

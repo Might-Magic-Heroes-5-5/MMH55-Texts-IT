@@ -1,0 +1,1 @@
+﻿L'unità infligge danno a tutti i nemici che sono vicino al bersaglio, suddividendolo equamente tra di loro. L'effetto non funziona durante il contrattacco.

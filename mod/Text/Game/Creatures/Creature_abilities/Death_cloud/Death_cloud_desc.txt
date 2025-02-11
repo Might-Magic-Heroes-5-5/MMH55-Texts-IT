@@ -1,0 +1,1 @@
+﻿L'unità spara diffondendo la nuvola di more in una zona di 3x3 caselle: oltre al normale danno al bersaglio primario, la nuvola di morte infligge metà del danno a tutte le unità non morte che ne sono coperte.

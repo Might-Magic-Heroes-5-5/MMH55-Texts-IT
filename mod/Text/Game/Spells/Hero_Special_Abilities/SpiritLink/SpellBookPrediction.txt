@@ -1,0 +1,3 @@
+﻿Mana gained is equal to (sqrt(dmg+6))/12
+
+Il mana guadagnato è pari a (sqrt(dmg+6))/12

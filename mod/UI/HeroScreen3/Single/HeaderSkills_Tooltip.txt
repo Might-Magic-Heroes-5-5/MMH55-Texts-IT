@@ -1,0 +1,1 @@
+﻿Questa finestra mostra informazioni sulle specializzazioni della classe dell'eroe, e su tutte le abilità che ha appreso durante il gioco.

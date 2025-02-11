@@ -1,0 +1,2 @@
+﻿Abilità di avventura: gli Incantatori aggiuntivi si uniranno all'esercito dell'eroe ogni settimana. Il numero di Incantatori è uguale a Arrotonda(moltiplicatore*Conoscenza dell'eroe), in cui il moltiplicatore = 0,17/0,25/0,33/0,42 in base alla crescita settimanale.<br>
+<color_default>Il tipo di Incantatori dipende dalla fazione dell'eroe e quelli presenti nel suo esercito; Se non ce ne sono, nessuno di quel tipo si unirà. Sono considerati Incantatori (compresi i potenziamenti): Preti, Druidi, Mostri della fossa, Lich, Maghi, Sacerdoti delle rune, Streghe d'ombra e Sciamane.

@@ -1,0 +1,1 @@
+﻿Versando il sangue dei suoi nemici l'eroe aumenta notevolmente la furia delle sue unità di Orchi. Il bersaglio nemico viene stordito (il valore ATB è ridotto di 0.01 * il livello dell'eroe e di un ulteriore 0.2 se l'eroe ha l'abilità Colpo stordente). Questo grido di guerra non funziona sui nemici che non possono sanguinare (non-morte, elementali e meccanici).

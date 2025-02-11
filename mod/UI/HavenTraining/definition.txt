@@ -1,0 +1,1 @@
+﻿<body>Il Campo d'addestramento ti consente di addestrare un numero limitato di unità del Rifugio alla settimana, facendole progredire di livello.

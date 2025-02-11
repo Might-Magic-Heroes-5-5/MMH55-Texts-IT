@@ -1,0 +1,1 @@
+﻿Una volta per combattimento, questa unità può esplodere in una palla di fuoco, infliggendo danni da fuoco a tutte le unità sulle caselle adiacenti senza ferirsi.

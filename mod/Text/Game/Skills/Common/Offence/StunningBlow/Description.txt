@@ -1,0 +1,1 @@
+﻿Ogni attacco dell'eroe sposta lievemente indietro il bersaglio sulla barra dell'iniziativa. Il valore ATB del bersaglio è ridotto di 0,2.

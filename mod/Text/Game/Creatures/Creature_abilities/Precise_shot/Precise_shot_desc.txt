@@ -1,0 +1,1 @@
+﻿Tirando da breve distanza (meno di 5 caselle), l'unità provoca danni maggiori perché la difesa del bersaglio non conta.

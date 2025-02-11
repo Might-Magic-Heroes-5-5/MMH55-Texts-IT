@@ -1,0 +1,1 @@
+﻿L'eroe ottiene +2 Difesa e la Difesa di tutte le sue unità aumenta quando sono vicine tra di loro sul campo di battaglia.<br><color_default>Il valore del bonus dipende dal livello di potenza delle unità (le unità deboli vengono potenziate maggiormente rispetto a quelle potenti) e possono raggiungere un massimo di +10.

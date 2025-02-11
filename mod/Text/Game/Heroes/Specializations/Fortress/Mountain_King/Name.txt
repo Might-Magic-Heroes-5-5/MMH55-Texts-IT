@@ -1,0 +1,1 @@
+﻿Classe: Mago delle rune<br>Specializzazione: Re delle Sale di Pietra<br><br><body_bright>Tutte le unità nell'esercito dell'eroe hanno l'effetto "Runa del controllo magico" permanentemente attivo (si aggiorna all'inizio del turno dell'unità).

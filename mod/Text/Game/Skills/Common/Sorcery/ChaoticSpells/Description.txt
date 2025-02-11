@@ -1,0 +1,1 @@
+﻿Ogni incantesimo lanciato dall'eroe (compresi gli incantesimi di avventura) ha il costo del mana casualmente ridotto da 10% a 30%.

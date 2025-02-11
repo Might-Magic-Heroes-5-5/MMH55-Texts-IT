@@ -1,0 +1,1 @@
+﻿Rianimatore: l'incantesimo Rianimazione ha un effetto maggiore. Il Potere magico di questo incantesimo aumenta di +1 per ogni 3 livelli dell'eroe, a partire dal primo livello.

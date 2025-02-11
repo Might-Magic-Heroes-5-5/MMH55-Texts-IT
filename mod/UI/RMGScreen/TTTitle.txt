@@ -1,0 +1,1 @@
+﻿AVVERTIMENTO! È necessario utilizzare MMH55_Utility.exe o MMH55_Editor.exe per generare mappe casuali, e utilizzare MMH55.exe o MMH55_64.exe per riprodurre la mappa. Se non puoi utilizzare le impostazioni delle risorse/esperienza, questo è il file .exe sbagliato per generare mappe! (ma quello giusto per giocarle)

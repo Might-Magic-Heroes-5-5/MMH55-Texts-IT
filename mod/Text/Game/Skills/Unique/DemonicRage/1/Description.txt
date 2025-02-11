@@ -1,0 +1,1 @@
+﻿Tutte le unità della Roccaforte ottengono il primo livello di Furia durante il combattimento, causando bonus di combattimento. La Furia del Sangue acquisita assorbirà il 15% di tutti i danni subiti dalle unità fino a quando tutta la furia non si esaurisce.

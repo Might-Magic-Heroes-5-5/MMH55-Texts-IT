@@ -1,0 +1,1 @@
+﻿Classe: Mago delle rune<br>Specializzazione: Maestro delle rune<br><br><body_bright>Con ogni aumento di livello, l'eroe può apprendere spontaneamente un altro incantesimo runico. La probabilità è del 25%.

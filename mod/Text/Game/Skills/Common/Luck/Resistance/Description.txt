@@ -1,0 +1,1 @@
+﻿Aumenta la Resistenza magica di tutte le unità nell'esercito dell'eroe del 12%. La Resistenza magica offre la possibilità di eludere completamente qualsiasi incantesimo che infligga danni, esclusi Pugno magico, Deperimento e Vulnerabilità.

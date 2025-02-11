@@ -1,0 +1,1 @@
+﻿Aumenta la furia dell'esercito dell'eroe di <value=army_rp>.

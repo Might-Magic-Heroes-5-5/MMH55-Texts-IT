@@ -1,0 +1,21 @@
+﻿Il comportamento dell'IA avanzata è modificato. Per impostazione predefinita, l'IA riceve alcune unità extra e oro settimanalmente per tenere il passo con il giocatore umano quando utilizza "Combattimento rapido", la modalità Casual lo disattiva.
+<br><color=white>Facile<color_default><br>
+Risorse del giocatore: 25000/12/25
+Risorse IA: 20000/10/20
+Neutrali: 1 + (*1,11 a settimana)
+Esperienza: x/1
+<br><color=white>Normale<color_default><br>
+Risorse del giocatore: 20000/10/20
+Risorse IA: 20000/10/20
+Neutrali: 1,1 + (*1,13 a settimana)
+Esperienza: x/1.1
+<br><color=white>Dura<color_default><br>
+Risorse del giocatore: 15000/7/15
+Risorse IA: 30000/15/30
+Neutrali: 1,2 + (*1,14 a settimana)
+Esperienza: x/1.2
+<br><color=white>Eroica<color_default><br>
+Risorse del giocatore: 10000/5/10
+Risorse IA: 30000/15/30
+Neutrali: 1,3 + (*1,15 a settimana)
+Esperienza: x/1.3

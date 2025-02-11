@@ -1,0 +1,29 @@
+﻿-------------------------------------------------- -----------------------
+MAPPA AVANZATA DEL DUELLO RMG
+-------------------------------------------------- -----------------------
+
+1. Visita una miniera abbandonata per ricevere una scorta casuale di artefatti.
+2. Visita una capanna delle streghe per ricevere un enorme incremento di esperienza.
+3. Torna alla tua città per assicurarti di aver imparato tutti gli incantesimi, acquistare tutte le unità e non dimenticare le macchine da guerra!
+4. Procedi verso la zona centrale per battere il tuo avversario, il tuo avversario dovrebbe accettare di combattere sul tipo di terreno generato casualmente.
+
+-------------------------------------------------- -----------------------
+REGOLE
+-------------------------------------------------- -----------------------
+
+- Se il tuo eroe muore, perdi la partita e non puoi assumerne un altro.
+- Per evitare che i giocatori blocchino il gioco, le città verranno distrutte il giorno 8, dopodiché avrai un massimo di 7 giorni per uccidere il tuo nemico.
+- Gli Osservatori di Redwood su questa mappa possono ripristinare il tuo mana, altri booster temporanei non sono utilizzabili.
+- I luoghi di battaglia su questa mappa sono troppo pericolosi con le impostazioni predefinite e visitarli ti farà perdere.
+
+-------------------------------------------------- -----------------------
+INFORMAZIONI SUL SALDO
+-------------------------------------------------- -----------------------
+
+- Gli insediamenti cittadini hanno una crescita extra se esiste un edificio di fazione speciale e il livello 1-3 del Dongione ha una crescita maggiore per sostituire il reclutamento/fossa rituale.
+- Gli eroi con specializzazioni nella crescita delle creature o nel sangue di drago riceveranno un gruppo extra di queste creature.
+- Gli eroi con specializzazioni logistiche ricevono un gruppo extra di elementali.
+- Gli eroi della necropoli ricevono un gruppo extra di scheletri, fantasmi o creature a seconda della classe.
+- I maghi ricevono +4 Attacco e +4 Difesa, ma non possono usare la Forgia Arcana.
+- Vendicatori e Ranger ricevono un gruppo extra di Spade danzanti, ma la Gilda dei vendicatori non può essere utilizzata.
+- Le dimensioni dell'esercito, gli artefatti e l'esperienza sono impostazioni configurabili dall'utente in data/MMH55-settings.pak, se lo si desidera, il gioco può essere modificato in corsa verso i luoghi di battaglia, riducendo la scorta di artefatti e le guardie neutrali.

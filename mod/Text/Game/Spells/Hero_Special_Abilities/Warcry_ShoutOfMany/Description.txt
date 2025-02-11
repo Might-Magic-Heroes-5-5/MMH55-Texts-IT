@@ -1,0 +1,1 @@
+﻿I nemici selezionati ricevono danni magici uguali al numero delle unità nell'esercito dell'eroe * 0,8 e tutte le unità della Roccaforte ottengono punti furia aggiuntivi. Il danno può essere ridotto dalla protezione magica e può essere contrastato. Non può essere riflesso dallo Specchio Magico.

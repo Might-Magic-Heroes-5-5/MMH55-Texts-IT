@@ -1,0 +1,1 @@
+﻿Supporta l'abilità Catene Elementali. Mostra gli elementi sulle proprie creature, per pianificare gli attacchi e fare più danni. Le creature di elemento opposto provocano più danni al nemico.<br><br><color=0099FF>Governance<color_default><br>Concede al Governatore di questa città un bonus di Attacco di +1.

@@ -1,0 +1,1 @@
+﻿Le unità della Roccaforte selezionate otterranno punti furia aggiuntivi pari a 15 * livello dell'eroe.

@@ -1,0 +1,1 @@
+﻿Classe: Guardiano<br>Specializzazione: Aura di rapidità<br><br><body_bright>L'Iniziativa di tutte le unità nell'esercito dell'eroe aumenta di 2,5% + 0,25% per livello dell'eroe.<br><color_default>Inizia con la Magia della distruzione di base.

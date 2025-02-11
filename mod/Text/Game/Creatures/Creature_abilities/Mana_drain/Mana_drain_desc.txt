@@ -1,0 +1,1 @@
+﻿Quando attacca le unità nemiche, questa unità può risucchiarne il mana e usarlo per guarire la propria salute oppure resuscitare delle unità uccise. Il mana risucchiato è pari al numero di unità nel gruppo, limitato alla quantità effettiva di mana del bersaglio. La quantità di unità resuscitate è pari alla quantità di mana risucchiato.

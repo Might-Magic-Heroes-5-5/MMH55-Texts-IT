@@ -1,0 +1,3 @@
+﻿Fornisce ai Capoguerra un Talismano che gli permetterà di lanciare incantesimi sulla Mappa dell'Avventura. Gli Sciamani e le Streghe potranno apprendere spontaneamente gli incantesimi di avventura e ottengono +2 Difesa (non cumulativo con più città)<br><br>
+<color=green>Porta Cittadina<color_default><br>Consente a tutti gli eroi di teletrasportarsi in questa città da qualsiasi posizione sulla mappa (richiede Sala della Potenza)<br><br>
+<color=0099FF>Governance<color_default><br>Conferisce al Governatore di questa città un bonus di +2 Potere magico.

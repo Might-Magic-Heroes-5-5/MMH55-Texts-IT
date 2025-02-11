@@ -1,0 +1,1 @@
+﻿Imbalsamatore: la Tenda di Pronto Soccorso curerà 4 punti ferita in più per ogni punto Difesa dell'eroe, ma l'eroe inizia con -1 Difesa.

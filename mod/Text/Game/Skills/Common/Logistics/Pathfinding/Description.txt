@@ -1,0 +1,1 @@
+﻿Rimuove completamente la penalità di movimento dell'eroe sul terreno accidentato durante l'esplorazione.

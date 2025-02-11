@@ -1,0 +1,9 @@
+﻿Ti consente di regolare la frequenza con cui gli eroi neutrali supportano l'esercito neutrale. Gli eroi neutrali avranno lo stesso livello dell'eroe. Non consigliato per mappe MMH5.5, poiché la resistenza neutrale è già aumentata.
+
+Facile: disattivato
+
+Normale: ~25% dell'esercito
+
+Dura: ~50% dell'esercito
+
+Eroica: ~90% dell'esercito

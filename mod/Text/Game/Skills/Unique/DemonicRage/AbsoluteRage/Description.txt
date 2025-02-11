@@ -1,0 +1,1 @@
+﻿Tutte le unità della Roccaforte controllate dall'eroe ottengono 160 punti furia all'inizio del combattimento, sostituendo l'effetto più debole di Memoria del nostro sangue.

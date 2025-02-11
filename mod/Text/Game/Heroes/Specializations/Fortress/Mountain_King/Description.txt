@@ -1,0 +1,1 @@
+﻿Re delle Sale di Pietra: tutte le unità nell'esercito dell'eroe hanno l'effetto "Runa del controllo magico" permanentemente attivo (si aggiorna all'inizio del turno dell'unità).

@@ -1,0 +1,2 @@
+﻿Sblocca (o potenzia) l'abilità della gilda dei maghi di evocare unità magiche nelle guarnigioni delle città possedute, l'artefatto funziona allo stesso modo dell'aggiunta di una quantità di Cristalli Sangue di Drago pari alla conoscenza dell'eroe/2.<color_default><br>(Finché l'eroe possiede questo artefatto, tutte le gilde di maghi evocheranno automaticamente le unità all'inizio di ogni settimana).<br><br>
+<color=yellow>Zaino<color_default><br>L'artefatto funziona dallo zaino, ma la funzionalità è limitata a un artefatto per eroe.

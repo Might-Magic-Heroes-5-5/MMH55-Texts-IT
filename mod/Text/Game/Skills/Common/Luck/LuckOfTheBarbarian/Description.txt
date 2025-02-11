@@ -1,0 +1,1 @@
+﻿Tutte le unità nell'esercito dell'eroe ottengono un ulteriore 40% di Resistenza magica, ma solo finché la Fortuna dell'eroe è positiva.

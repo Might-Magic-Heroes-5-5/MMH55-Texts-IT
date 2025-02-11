@@ -1,0 +1,1 @@
+﻿L'unità ha un bonus del 3.33% al danno che infligge quando attacca per ogni casella che ha attraversato prima di attaccare.

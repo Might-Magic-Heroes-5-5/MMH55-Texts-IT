@@ -1,0 +1,1 @@
+﻿Addestratore di Grifoni: tutti i Grifoni, Grifoni imperiali e Grifoni da battaglia nell'esercito dell'eroe ottengono +1 Attacco e Difesa per ogni due livelli dell'eroe, a partire dal primo livello. I Grifoni non potenziati ottengono l'abilità Picchiata da battaglia.

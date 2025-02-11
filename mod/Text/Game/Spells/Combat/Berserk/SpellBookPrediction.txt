@@ -1,0 +1,1 @@
+﻿Durata incantesimo: <value=duration> azioni. Danno aumentato del <value=enchant>%.

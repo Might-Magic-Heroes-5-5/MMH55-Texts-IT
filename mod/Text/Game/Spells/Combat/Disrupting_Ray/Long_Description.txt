@@ -1,0 +1,1 @@
+﻿Distrugge l'armatura del nemico selezionato, riducendone le difese e infliggendogli una piccola quantità di danni magici non elementali. Il danno è pari a 10 * Potere magico. I lanci consecutivi abbasseranno ulteriormente la difesa, ma mai sotto lo 0.

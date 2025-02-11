@@ -1,0 +1,1 @@
+﻿L'eroe ripristina il mana completo al costo dei punti movimento. A seconda della maestria nella Stregoneria, l'eroe perderà 12, 10 o 8 punti movimento per ogni punto di mana recuperato. Questa abilità può essere utilizzata solo se l'eroe non ha perso punti movimento.

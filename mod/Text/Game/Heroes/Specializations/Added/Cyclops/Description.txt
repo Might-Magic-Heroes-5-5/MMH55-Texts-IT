@@ -1,0 +1,1 @@
+﻿Signore dell'Abisso: tutti i Ciclopi, i Ciclopi selvaggi e i Ciclopi occhio di sangue agiranno immediatamente all'inizio del combattimento. Inoltre, all'inizio di ogni settimana, altre unità simili saranno disponibili per il reclutamento in tutte le città Roccaforte possedute. La quantità è pari a 0,04*livello dell'eroe. Non ci sono unità extra disponibili prima del livello 13.

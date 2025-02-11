@@ -1,0 +1,1 @@
+﻿Mentore: all'inizio del combattimento il mana aggiuntivo diventerà disponibile per tutti i Maghi (+1), Arcimaghi (+12) e Maghi da battaglia (+7) amici. Tutti i Maghi (e i potenziamenti) nell'esercito dell'eroe ottengono anche +1 al Attacco e Difesa ogni due livelli dell'eroe, a partire dal primo livello.

@@ -1,0 +1,1 @@
+﻿Classe: Cavaliere<br>Specializzazione: Eroe<br><br><body_bright>L'eroe inizia con +2 Conoscenza e l'effetto dell'incantesimo Rapidità aumenta di 0,15% per ogni livello dell'eroe.<br><color_default>Inizia con la Magia della luce di base.

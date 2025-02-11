@@ -1,0 +1,1 @@
+﻿Conferisce il controllo sulle unità nemiche che non sono immuni al Controllo Mentale. La durata è di 2 turni se il gruppo ha lo stesso valore (in esperienza), ma viene ridotta o aumentata fino a un massimo di 4 a seconda della differenza di valore. La Succube non può agire durante la seduzione.

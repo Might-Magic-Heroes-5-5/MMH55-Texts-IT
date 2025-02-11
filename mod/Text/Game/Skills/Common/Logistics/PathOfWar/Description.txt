@@ -1,0 +1,2 @@
+﻿Abilità di avventura: l'eroe guadagna 50 punti movimento dopo ogni battaglia sulla terra<br><color_default>
+Inoltre, l'eroe non perde alcun movimento per impegnarsi in combattimento. Questa parte del bonus non si cumula con l'abilità Toccata e fuga o con gli artefatti.

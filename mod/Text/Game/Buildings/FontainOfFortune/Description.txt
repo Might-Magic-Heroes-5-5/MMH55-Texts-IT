@@ -1,0 +1,6 @@
+﻿+33% di probabilità di ottenere +3 Fortuna
++33% di probabilità di ottenere +2 Fortuna
++33% di probabilità di -1 Fortuna
++100% di possibilità di ottenere 33 Mana
+
+<color_default>Alcuni artefatti possono essere dissolti qui.

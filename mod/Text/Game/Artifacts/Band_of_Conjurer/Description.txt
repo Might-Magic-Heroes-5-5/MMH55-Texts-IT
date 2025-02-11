@@ -1,0 +1,3 @@
+﻿+2 Potere magico<br>
++4 Potere magico quando viene lanciato Evoca elementale<br><color_default>
+Concede l'incantesimo Evoca elementale se non è già stato appreso.

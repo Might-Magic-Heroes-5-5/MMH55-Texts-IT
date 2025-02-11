@@ -1,0 +1,1 @@
+﻿Permette di piazzare rune magiche sulle proprie unità in combattimento, dando loro temporaneamente nuove abilità e caratteristiche. Il livello di questa capacità determina il livello delle rune che si possono usare.

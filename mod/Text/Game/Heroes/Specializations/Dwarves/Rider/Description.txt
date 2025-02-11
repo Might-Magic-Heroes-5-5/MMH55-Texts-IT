@@ -1,0 +1,1 @@
+﻿Cavaliere: all'inizio del combattimento il valore ATB verrà ripristinato per tutti i Cavalieri degli orsi, Cavalieri degli orsi neri e Cavalieri degli orsi bianchi amici, facendoli ad agire immediatamente. Tutti i Cavalieri degli orsi (e i loro potenziamenti) nell'esercito dell'eroe guadagnano anche +1 Attacco e Difesa per ogni due livelli dell'eroe, a partire dal primo livello.

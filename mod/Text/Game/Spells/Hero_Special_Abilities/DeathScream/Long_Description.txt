@@ -1,0 +1,1 @@
+﻿Una speciale abilità di combattimento che invoca la morte stessa in combattimento. Tutte le creature viventi nemiche ricevono -2 al Morale e alla Fortuna e -10% all'Iniziativa. La durata dell'effetto è 2 + 0.1*(livello dell'eroe) turni. Il valore ATB dell'eroe viene ripristinato a 0.15 dopo l'uso.

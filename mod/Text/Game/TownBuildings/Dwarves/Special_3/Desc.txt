@@ -1,0 +1,1 @@
+﻿Il Posto di guardia ti consente di aggiungere un gruppo di unità aggiuntive direttamente sul campo di battaglia quando la città è sotto attacco e aumenta la difesa di tutti gli eroi nanici di +1 (cumulativo con più città e non richiede la visita della città).<br><color_default>La quantità di difensori aggiunti è pari a (4 * livello della città) * mese.

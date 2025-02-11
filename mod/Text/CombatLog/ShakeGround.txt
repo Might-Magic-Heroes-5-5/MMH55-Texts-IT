@@ -1,0 +1,1 @@
+﻿<value=source_color>L'abilità Terremoto causa <value=damage> danni a tutte unità. <value=dead> unità uccise.

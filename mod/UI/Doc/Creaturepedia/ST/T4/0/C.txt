@@ -1,0 +1,1 @@
+﻿Questa unità può usare diversi incantesimi, come quelli degli eroi. La riserva di mana è limitata, ma all'inizio del combattimento torna sempre al massimo. La potenza magica dipende dal numero di unità (abilità da attivare).<br><br><color_bright>~Incantesimi~<br> Lentezza (Base)<br> Rapidità (Base)

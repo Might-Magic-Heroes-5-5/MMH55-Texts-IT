@@ -1,0 +1,1 @@
+﻿Un'abilità di combattimento speciale che infligge ingenti danni a tutte le unità evocate o invocate, il danno è pari a 120 + (40 * livello dell'eroe). Il valore ATB dell'eroe viene ripristinato a 0.33 dopo l'uso.

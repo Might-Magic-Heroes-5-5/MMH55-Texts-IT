@@ -1,0 +1,1 @@
+﻿Aumenta l'area in cui puoi disporre le tue unità poco prima del combattimento, rendendo disponibile una terza fila per la distribuzione. Se anche l'avversario ha questa abilità, entrambi gli effetti vengono annullati.

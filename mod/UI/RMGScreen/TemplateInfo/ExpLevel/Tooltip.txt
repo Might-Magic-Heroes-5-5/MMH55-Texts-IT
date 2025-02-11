@@ -1,0 +1,1 @@
+﻿Questo regola il numero di edifici di potenziamento che vengono posizionati nelle zone del tesoro e regola indirettamente il valore degli artefatti. Ribilanciato a partire dall'RC15, impostalo più basso per rendere più difficile trovare artefatti rari o più alto per il contrario.

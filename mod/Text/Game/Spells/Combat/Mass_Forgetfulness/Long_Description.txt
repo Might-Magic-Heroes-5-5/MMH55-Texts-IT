@@ -1,0 +1,1 @@
+﻿Fa scordare alle unità nemiche selezionate quello che stanno facendo sul campo di battaglia. Alcune di esse scorderanno come usare i propri attacchi a distanza e contrattacchi. (L'incantesimo non funziona su unità non morte, elementali e meccaniche.)

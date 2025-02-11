@@ -1,0 +1,1 @@
+﻿Le unità infernali ottengono l'abilità di invocare rinforzi dai piani infernali sul campo di battaglia. Ogni unità può invocare una sola volta per combattimento. Le unità giunte sul campo di battaglia costituiscono una parte di quelle invocate e scompariranno alla fine del combattimento.

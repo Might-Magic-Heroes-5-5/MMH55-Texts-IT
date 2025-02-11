@@ -1,0 +1,1 @@
+﻿Migliora l'attacco di tutte le creature amiche della quantità che dipende dalla potenza magica. Se i bersagli sono sotto l'influenza dell'incantesimo Sofferenza, entrambi gli effetti rimarranno attivi e la differenza di forza dei lanciatori determinerà il risultato.

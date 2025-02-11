@@ -1,0 +1,3 @@
+﻿<color_default>Potenziamento della Municipalità.<br> 
+<color_bright>Il Campidoglio fornisce al regno 4000 ori al giorno.<br><br>
+<color=0099FF>Governance<color_default><br>Conferisce al Governatore di questa città 100 punti esperienza aggiuntivi al giorno.

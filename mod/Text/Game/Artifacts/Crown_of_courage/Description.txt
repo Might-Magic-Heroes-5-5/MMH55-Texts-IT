@@ -1,0 +1,7 @@
+﻿+2 Morale<br>
++10 Conoscenza calcolata su tutti gli artefatti attivi<br>
++10 Difesa calcolata su tutti gli artefatti attivi<br><color_default>
+(Influisce su tutti gli artefatti attivi su questo eroe fornendo risorse, unità o resuscitando unità)<br><br><color=purple>
+Spirito del leone<color_default><br>
++6 Attacco (3/3)<br>
+*Il bonus del set viene applicato dopo aver chiuso la schermata Inventario.

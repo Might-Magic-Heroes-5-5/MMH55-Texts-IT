@@ -1,0 +1,1 @@
+﻿Aumenta l'Attacco dell'eroe di +4 e tutte le unità comandate dall'eroe infliggono danni doppi alle unità evocate.

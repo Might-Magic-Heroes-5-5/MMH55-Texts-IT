@@ -1,0 +1,1 @@
+﻿Quando questa unità subisce un attacco ravvicinato, il suo Scudo di fuoco riflette il 40% del danno ricevuto all'attaccante, indipendentemente dal fatto che possa contrattaccare.

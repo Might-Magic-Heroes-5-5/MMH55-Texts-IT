@@ -1,0 +1,2 @@
+﻿Aumenta l'abilità Furia del sangue dei Capoguerra fornendo 50 punti furia a tutto l'esercito all'inizio del combattimento. I Sciamani e le Streghe ottengono +1 Conoscenza in modo permanente (cumulativo con più città).<br><br>
+<color=0099FF>Governance<color_default><br>Conferisce al Governatore di questa città un bonus di Attacco di +2.

@@ -1,0 +1,1 @@
+﻿Ogni volta che viene attivato un bonus di Fortuna, l'unità infligge x1.66 danno invece che x1.5.

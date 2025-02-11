@@ -1,0 +1,1 @@
+﻿L'eroe scatena le forze della natura contro le unità nemiche. Ogni volta che un'unità nemica non volante si muove, riceve un danno pari al livello dell'eroe * 8.<br><color_default>Il danno non è per casella e non funziona se la creatura semplicemente si gira (deve per forza muoversi di almeno 1 casella).

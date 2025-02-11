@@ -1,0 +1,1 @@
+﻿Aumenta il danno minimo di tutti i bersagli amici portandolo al loro danno massimo. Se il bersaglio è sotto l'influenza dell'incantesimo Debolezza, verrà purificato. L'effetto non può superare il 100%.

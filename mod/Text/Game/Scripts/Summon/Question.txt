@@ -1,0 +1,1 @@
+﻿Desideri fare un'offerta di <value=qty> <value=type>?

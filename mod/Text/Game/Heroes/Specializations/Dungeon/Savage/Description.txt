@@ -1,0 +1,1 @@
+﻿Mano nera: un gruppo di Esploratori si unisce all'esercito dell'eroe all'inizio del combattimento, la quantità è pari al 25% degli Esploratori, Assassini e Predatori che l'eroe ha già nel suo esercito. Inoltre, tutti gli Esploratori (e i potenziamenti) nell'esercito dell'eroe ottengono +1 Attacco e Difesa ogni due livelli dell'eroe, a partire dal primo livello.

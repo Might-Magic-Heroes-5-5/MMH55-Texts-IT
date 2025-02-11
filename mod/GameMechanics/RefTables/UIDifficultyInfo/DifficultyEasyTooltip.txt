@@ -1,0 +1,4 @@
+﻿Risorse dei giocatori: 25000/12/25
+Risorse dell'IA: 20000/10/20
+Unità neutrali: 1 + (*1.11 per settimana)
+Experience: x/1

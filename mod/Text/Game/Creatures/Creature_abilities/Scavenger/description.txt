@@ -1,0 +1,1 @@
+﻿L'unità può ripristinare la sua salute e i suoi numeri divorando i cadaveri del nemico sul campo di battaglia all'interno del suo raggio di movimento (abilità da attivare). La salute guadagnata è pari al 20% dei punti ferita del gruppo morto.

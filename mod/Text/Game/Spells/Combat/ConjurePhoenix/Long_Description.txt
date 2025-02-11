@@ -1,0 +1,1 @@
+﻿Evoca una fenice sul campo di battaglia che combatte al fianco dell'eroe. Può essere evocata solo una fenice per volta. Attacco, Difesa, Punti ferita, Iniziativa e Velocità della Fenice dipendono dal Potere magico del lanciatore. La Fenice è immune alla magia.

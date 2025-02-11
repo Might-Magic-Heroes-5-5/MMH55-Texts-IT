@@ -1,0 +1,1 @@
+﻿I Negromanti possono risvegliare i nemici caduti e arruolarli utilizzando una risorsa speciale chiamata Energia Oscura. Questa energia è comune a tutti gli eroi e viene ripristinata all'inizio della settimana. La quantità di energia dipende dal numero totale di negromanti e dal loro livello.

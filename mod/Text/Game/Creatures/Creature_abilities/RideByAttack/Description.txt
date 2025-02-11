@@ -1,0 +1,1 @@
+﻿Lungo il tragitto verso il bersaglio, questa unità attaccherà tutti i gruppi nemici, causando il 50% del normale danno senza subire contrattacco.

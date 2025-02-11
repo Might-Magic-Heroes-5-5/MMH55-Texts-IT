@@ -1,0 +1,1 @@
+﻿L'eroe impara la Runa del Berserker e gli è consentito ripristinare la runa precedente (o una casuale se ce ne sono diverse) sull'unità scelta prolungandone l'effetto. Questa azione consuma solo il 50% dell'iniziativa. Una volta ripristinata sull'unità, la Runa diventa nuovamente disponibile al costo normale.

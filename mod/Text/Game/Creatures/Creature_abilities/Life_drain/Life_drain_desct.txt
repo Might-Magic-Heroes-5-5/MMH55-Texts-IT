@@ -1,0 +1,1 @@
+﻿Quando attacca unità nemiche, questa unità può risucchiarne la salute e usarla per recuperare la propria o anche resuscitare alcune unità uccise. La quantità di Punti Ferita risucchiati è pari al 30% del danno inflitto.

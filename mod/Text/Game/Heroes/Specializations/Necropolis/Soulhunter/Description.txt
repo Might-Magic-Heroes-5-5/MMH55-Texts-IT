@@ -1,0 +1,1 @@
+﻿Cacciatore di anime: ogni volta che un gruppo di unità nemiche muore, viene sostituito da un gruppo di Fantasmi amici per tutta la durata del combattimento. Il numero dei Fantasmi è pari al livello dell'eroe.

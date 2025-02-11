@@ -1,0 +1,1 @@
+﻿Nascondi registro di combattimento <hotkey=input_switch_atb_log>.

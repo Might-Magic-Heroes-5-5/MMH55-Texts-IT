@@ -1,0 +1,1 @@
+﻿Le specializzazioni e le capacità iniziali dell'eroe, determinate dalla classe.

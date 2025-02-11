@@ -1,0 +1,1 @@
+﻿<color=green>Nome: <value=heroname><color=white><br><value=herospecialisation>

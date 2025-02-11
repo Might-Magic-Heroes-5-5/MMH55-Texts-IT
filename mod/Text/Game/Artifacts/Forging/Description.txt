@@ -1,0 +1,4 @@
+﻿-1 Morale<br>
+-2 Morale se non equipaggiato<br><br><color=red>
+Artefatto maledetto<br><color_default>
+Questo artefatto ha una presa salda sull'eroe.

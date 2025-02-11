@@ -1,0 +1,1 @@
+﻿Consente il controllo manuale delle Baliste e le Baliste ottengono un tiro extra.<br><color_default>Ripristina la balista dopo la battaglia se questa è stata distrutta. I punti ferita della Balista vengono moltiplicati per 3.

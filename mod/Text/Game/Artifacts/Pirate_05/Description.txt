@@ -1,0 +1,6 @@
+﻿+50 Punti movimento dopo ogni battaglia sulla terra<br><color_default>
+Inoltre, l'eroe non perde alcun movimento per impegnarsi in combattimento. Questa parte del bonus non si cumula con le abilità Toccata e fuga o Saccheggiatore.<br><br><color=purple>
+Abbigliamento da pirata<color_default><br>
++6 Attacco (3/6)<br>
++12 Attacco (6/6)<br>
+*Il bonus del set viene applicato dopo aver chiuso la schermata Inventario.

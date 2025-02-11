@@ -1,0 +1,8 @@
+﻿<br><color=white>Importante: <color_default>
+Questo è solo un testo di aiuto, non avviare la mappa con questa impostazione o la difficoltà sarà casuale!
+<br><color=white>Bonus iniziale: <color_default>
+Indipendentemente dalla modalità scelta qui, gli eroi iniziali riceveranno sempre un artefatto minore casuale e un bonus unità personale. Gli eroi della taverna hanno eserciti più deboli.
+<br><color=white>Scenari: <color_default>
+Gli scenari possono essere giocati solo in modalità Casual o Predefinita, se selezioni Selvaggia o Incubo il gioco tornerà alla modalità Predefinita. La conversione della città, la governance e il controllo delle miniere sono sempre disabilitati su queste mappe.
+<br><color=white>Multigiocatore: <color_default>
+Nei giochi senza giocatori IA, il gioco tornerà alla modalità Predefinita. Le mappe ARMG generate recentemente non funzionano in Hotseat o LAN senza l'attivazione dello script (per questo, utilizzare l'applicazione mapmixer fornita, collegamento nel menu di avvio).

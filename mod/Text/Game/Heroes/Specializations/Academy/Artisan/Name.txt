@@ -1,0 +1,1 @@
+﻿Classe: Incantatore<br>Specializzazione: Signore dei Folletti<br><br><body_bright>+1 Attacco e Difesa a tutti i Folletti, Folletti Maestri e Folletti Sabotatori dell'esercito per ogni due livelli dell'eroe, partendo dal primo.<br><color_default>Inizia con l'Attacco di base.

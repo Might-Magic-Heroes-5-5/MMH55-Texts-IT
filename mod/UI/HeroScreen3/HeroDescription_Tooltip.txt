@@ -1,0 +1,1 @@
+﻿La classe dell'eroe ne determina le capacità e le caratteristiche iniziali. Il livello dell'eroe ne influenza le caratteristiche. Raggiungere un nuovo livello permette di ottenere nuove abilità e capacità e di migliorare le caratteristiche dell'eroe.

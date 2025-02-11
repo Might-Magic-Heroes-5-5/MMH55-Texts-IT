@@ -1,0 +1,1 @@
+﻿Distruttore: i turni dell'eroe arrivano più velocemente in combattimento a seconda del suo livello. L'Iniziativa dell'eroe diventa 11,5 + 0,025 * livello dell'eroe (invece di 11).

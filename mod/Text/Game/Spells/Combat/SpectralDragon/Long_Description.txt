@@ -1,0 +1,1 @@
+﻿Evoca un Drago Spettrale sul campo di battaglia per combattere dalla parte dell'eroe. È possibile evocare un solo drago alla volta. Attacco, Difesa, Punti ferita, Iniziativa e Velocità del Drago dipendono dal potere magico e dal livello dell'incantatore. Il valore ATB dell'eroe viene ripristinato a 0.33 dopo l'uso.

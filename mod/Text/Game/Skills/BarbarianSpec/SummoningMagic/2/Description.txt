@@ -1,0 +1,1 @@
+﻿Tutti gli incantesimi di Evocazione dal 1° al 3° cerchio lanciati dal nemico vengono diminuiti di 2 livelli di destrezza (da Esperto a di Base, da Avanzato a Nullo ecc.). Quelli del 4° e del 5° vengono diminuiti di 1 livello. La potenza magica viene ulteriormente ridotta del 15% per ogni livello in cui un incantesimo finisce al di sotto del livello Nullo.

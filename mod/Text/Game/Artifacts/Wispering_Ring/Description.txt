@@ -1,0 +1,3 @@
+﻿+3 Attacco<br>
++3 Difesa<br>
+-1 Velocità

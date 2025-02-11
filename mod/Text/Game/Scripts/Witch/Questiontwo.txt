@@ -1,0 +1,1 @@
+﻿Delusa, la strega esita un po' ma alla fine decide di farti un'altra offerta. Questa volta però vuole <value=gold> Oro in cambio dei suoi servizi. Ti piacerebbe imparare <value=skill> <value=maestry>?

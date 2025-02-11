@@ -1,0 +1,1 @@
+﻿Classe: Negromante<br>Specializzazione: Corridore<br><br><body_bright>I Punti movimento dell'eroe aumentano del 5% e dell'1% ogni quattro livelli. Il costo dell'incantesimo Teletrasporto è ridotto della metà.<br><color_default>Inizia con l'abilità Maestro della mente.

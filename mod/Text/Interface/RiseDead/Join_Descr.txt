@@ -1,0 +1,5 @@
+﻿Puoi rianimare <body_bright><value=allowed_count> di <value=count> <value=name><body><br>
+
+Costerà <body_bright><value=energy_needed> punti<body> di Energia Oscura.
+
+<body_bright>Vuoi rianimare le unità?

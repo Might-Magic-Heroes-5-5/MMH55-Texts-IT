@@ -1,0 +1,2 @@
+﻿<color_default>Potenziamento delle Capanne dei Cacciatori.<br>
+<color_bright>L'Alloggio dei Cacciatori permette di reclutare i Maestri Cacciatori e gli Arcieri Arcani.

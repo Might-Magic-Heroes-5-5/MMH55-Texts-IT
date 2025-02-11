@@ -1,0 +1,1 @@
+﻿Classe: Ingegnere<br>Specializzazione: Anticonformista<br><br><body_bright>L'eroe inizia con +1 Attacco e -1 Difesa e l'Iniziativa di tutte le unità del suo esercito aumenta di 2,5% + 0,25% per livello dell'eroe.<br><color_default>Inizia con il Comando di base.

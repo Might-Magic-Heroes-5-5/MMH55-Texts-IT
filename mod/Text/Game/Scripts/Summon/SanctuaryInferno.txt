@@ -1,0 +1,1 @@
+﻿<color=yellow>Hai sacrificato alcuni profughi e i demoni si sono uniti con gioia! (+<value=num> <value=upgtype>)

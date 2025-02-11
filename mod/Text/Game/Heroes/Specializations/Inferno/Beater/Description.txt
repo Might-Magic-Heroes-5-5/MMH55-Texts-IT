@@ -1,0 +1,1 @@
+﻿Corridore: i Punti movimento dell'eroe aumentano del 5% e dell'1% ogni quattro livelli. Il costo dell'incantesimo Teletrasporto è ridotto della metà.

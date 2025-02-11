@@ -1,0 +1,1 @@
+﻿L'eroe guadagna +2 Potere magico e lo aumenta ulteriormente di +1 per ogni 5 livelli. L'eroe ottiene anche +4 rigenerazione di mana e un bonus una tantum di +100 mana.

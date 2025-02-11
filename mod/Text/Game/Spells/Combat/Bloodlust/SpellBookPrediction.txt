@@ -1,0 +1,1 @@
+﻿Aumenta l'attacco di <value=enchant> per <value=duration> turni.

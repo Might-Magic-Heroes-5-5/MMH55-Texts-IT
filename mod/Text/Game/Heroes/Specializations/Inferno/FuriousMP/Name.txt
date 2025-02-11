@@ -1,0 +1,1 @@
+﻿Classe: Stregone<br>Specializzazione: Fanatico<br><br><body_bright>L'eroe inizia con l'Invocazione (una capacità che gli Stregoni normalmente non possono apprendere) e l'Iniziativa di tutte le unità nell'esercito dell'eroe aumenta di 2,5% + 0,25% per livello dell'eroe.<br><color_default>Inizia con l'Invocazione di base.

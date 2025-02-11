@@ -1,0 +1,4 @@
+﻿La pratica del Mentore della Memoria è attualmente vietata in queste terre, ma il Mago è comunque disposto a darti un addestramento magico di base.
+ 
+OK = +2 Potere magico
+Annulla = +2 Conoscenza

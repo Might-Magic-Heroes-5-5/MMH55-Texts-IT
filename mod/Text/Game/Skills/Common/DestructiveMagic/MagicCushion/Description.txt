@@ -1,0 +1,1 @@
+﻿Aumenta la Fortuna dell'eroe di +1 in modo permanente e tutti i danni inflitti dagli incantesimi nemici vengono ridotti del 20%.

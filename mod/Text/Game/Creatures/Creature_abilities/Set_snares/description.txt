@@ -1,0 +1,2 @@
+﻿L'unità può piazzare una trappola sul campo di battaglia, invisibile al nemico, che può perdere alcuni dei suoi punti movimento (50%) o addirittura fermarsi del tutto (25%).
+Se la trappola fallisce (25%), l'Iniziativa dell'unità che l'ha piazzata andrà a zero. Le percentuali di probabilità sopra indicate si applicano solo se il nemico (Livello+dimensione del gruppo/crescita settimanale) si avvicina allo stesso valore della quantità di Cacciatori/25. Altrimenti queste possibilità aumentano o diminuiscono del 5% ogni 25 cacciatori mancanti o aggiuntivi.

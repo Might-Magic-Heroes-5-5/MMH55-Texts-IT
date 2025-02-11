@@ -1,0 +1,1 @@
+﻿Quando arriva il turno di un nemico che si trova nel raggio di 1 casella da quest'unità, esso soffrirà danni da fuoco proporzionali al numero di unità nel gruppo. All'inizio del suo turno, qualsiasi unità nemica adiacente subisce danni da fuoco di dimensione del gruppo * 6.

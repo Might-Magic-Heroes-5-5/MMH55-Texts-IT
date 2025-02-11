@@ -1,0 +1,1 @@
+﻿Conferisce all'eroe il controllo temporaneo dell'unità nemica selezionata, che non può contrattaccare. Le unità sotto questo incantesimo non possono contrattaccare (è richiesto il livello Esperto per ottenere il controllo sulle unità di livello 7).<br><color_default>L'incantesimo non funziona su unità non-morte, elementali e meccaniche.

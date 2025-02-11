@@ -1,0 +1,1 @@
+﻿Aumenta la velocità dell'eroe nell'esecuzione degli incantesimi. L'intervallo tra due lanci consecutivi è ridotto del 24%. Gli incantesimi di massa non vengono considerati.<br><color_default>L'Iniziativa di base dell'eroe è 11 e aumenta all'equivalente di 14,5 fintanto che vengono lanciati gli incantesimi.

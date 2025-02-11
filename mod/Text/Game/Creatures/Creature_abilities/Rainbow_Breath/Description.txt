@@ -1,0 +1,1 @@
+﻿Questa unità può attaccare casualmente tutti i bersagli nella direzione selezionata entro un raggio di 3 caselle. Il numero effettivo di caselle colpite dipende dalla Fortuna dell'unità: 1+(random(1-10)+Fortuna)/2, arrotondato per difetto e limitato a un massimo di 5.

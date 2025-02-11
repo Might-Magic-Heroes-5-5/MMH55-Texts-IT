@@ -1,0 +1,1 @@
+﻿<color=yellow>Non hai abbastanza punti movimento!

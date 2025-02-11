@@ -1,0 +1,1 @@
+﻿Aumenta la furia delle unità dell'eroe di <value=army_rp> punti.

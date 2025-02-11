@@ -1,0 +1,3 @@
+﻿+6 Attacco<br>
++6 Difesa<br>
+Concede alle unità dell'esercito dell'eroe l'immunità all'Armageddon

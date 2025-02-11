@@ -1,0 +1,1 @@
+﻿I normali attacchi contro le unità dell'eroe sono sempre colpiti da sfortuna. Gli attacchi fortunati diventano normali. Se il nemico ha la Fortuna Assoluta, le due caratteristiche si annullano a vicenda.

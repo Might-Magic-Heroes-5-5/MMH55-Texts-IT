@@ -1,0 +1,8 @@
+﻿Giorno 1: +3 Attacco
+Giorno 2: +1 Morale
+Giorno 3: +3 Difesa
+Giorno 4: +1 Fortuna
+Giorno 5: +1 Iniziativa
+Giorno 6: +2 Attacco e Difesa
+Giorno 7: +1 Velocità
+Tutti i giorni: +400 Punti movimento

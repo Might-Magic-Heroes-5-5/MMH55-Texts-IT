@@ -1,0 +1,1 @@
+﻿L'eroe ottiene +2 Difesa e la aumenta ulteriormente di 1 ogni 10 livelli. L'eroe riceve anche un bonus una tantum del +10% Punti Vita a tutte le unità del suo esercito per il combattimento successivo.

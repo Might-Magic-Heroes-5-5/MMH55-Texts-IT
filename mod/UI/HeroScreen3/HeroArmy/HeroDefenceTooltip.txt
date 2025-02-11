@@ -1,0 +1,1 @@
+﻿Diminuisci il danno fisico che le unità ricevono in combattimento.

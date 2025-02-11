@@ -1,0 +1,1 @@
+﻿Fanciulla di ferro: i colpi della Balista sotto il comando dell'eroe hanno un effetto Palla di fuoco. Il danno della Palla di Fuoco è pari a 24*Potere, dove il Potere è pari a -2,33 + livello dell'eroe/3. Le abilità dell'eroe (come Maestro delle fiamme) non vengono prese in considerazione.

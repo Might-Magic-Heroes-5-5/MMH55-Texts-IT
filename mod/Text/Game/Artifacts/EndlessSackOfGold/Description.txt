@@ -1,0 +1,5 @@
+﻿+C*50 Oro al giorno<br><color_default>
+(C=Conoscenza dell'eroe, ad esempio 1000 Oro al giorno per 20 Conoscenza)<br><br><color=orange>
+Oca d'Oro<color_default><br>
+Porta tutti e tre gli artefatti che forniscono oro infinito a una Biblioteca arcana per una ricompensa unica<br><br>
+<color=yellow>Zaino<color_default><br>Questo artefatto funziona dallo zaino, ma la funzionalità è limitata a un artefatto per eroe.

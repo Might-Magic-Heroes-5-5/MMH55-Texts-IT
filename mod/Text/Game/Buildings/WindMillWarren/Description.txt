@@ -1,0 +1,1 @@
+﻿Fornisce una piccola quantità di risorse casuali una volta alla settimana.

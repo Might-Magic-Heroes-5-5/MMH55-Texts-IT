@@ -1,0 +1,1 @@
+﻿Aumenta i danni inflitti dalle unità dell'eroe durante il contrattacco. Consente al Cavaliere di promuovere le unità umane al loro livello successivo. Funziona solo all'interno delle città del Rifugio nelle quali sono stati costruiti i Campi d'addestramento

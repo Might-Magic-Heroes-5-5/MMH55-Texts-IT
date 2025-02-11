@@ -1,0 +1,1 @@
+﻿Spada di Sylanna: l'eroe inizia con la Magia dell'evocazione (una capacità che i Vendicatori normalmente non possono apprendere) e tutte le unità Silvane sotto il comando dell'eroe infliggono +0,5% di danni in più ai nemici preferiti per ogni livello dell'eroe.

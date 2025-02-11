@@ -1,0 +1,2 @@
+﻿+15% Movimento sul terreno<br><br>
+<color=red>Aderenza perfetta<br><color_default>L'eroe perde 500 punti movimento quando disequipaggia questo artefatto.

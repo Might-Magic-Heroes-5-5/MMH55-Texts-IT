@@ -1,0 +1,1 @@
+﻿Classe: Mago delle rune<br>Specializzazione: Sapiente<br><br><body_bright>L'eroe inizia con +1 Conoscenza e apprende un attributo primario casuale ogni 6 livelli.<br><color_default>Inizia con la Magia dell'evocazione di base.

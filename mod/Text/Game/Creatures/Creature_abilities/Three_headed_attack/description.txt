@@ -1,0 +1,1 @@
+﻿L'unità morde il suo bersaglio principale infliggendo danni completi e invia un'ondata di fuoco a tre vie che infligge il 75% dei danni agli altri nemici in un raggio di 2 caselle.

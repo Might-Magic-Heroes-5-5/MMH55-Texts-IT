@@ -1,0 +1,1 @@
+﻿Lega lo spirito a quello di un'unità selezionata; se l'unità collegata riceve un danno, l'eroe ottiene del mana, nutrendosi della sofferenza di quell'unità.

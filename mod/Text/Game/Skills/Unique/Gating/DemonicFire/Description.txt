@@ -1,0 +1,1 @@
+﻿Le unità sotto il controllo del Signore dei demoni hanno il 66% di possibilità di infliggere un danno di fuoco aggiuntivo. Ogni volta che si innesca, Fuoco demoniaco infligge danni da fuoco pari a 7 + 7 * Potere magico e consuma 2 mana.

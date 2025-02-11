@@ -1,0 +1,7 @@
+﻿-25% sul costo in Mana di tutti gli incantesimi<br><br><color=purple>
+Vesti di Sar-Issus<color_default><br>
++50% Potere magico e Mana alle unità dell'esercito dell'eroe (2/4)<br>
++100% Potere magico e Mana alle unità dell'esercito dell'eroe (4/4)<br>
+*Il bonus del set viene applicato dopo aver chiuso la schermata Inventario.<br><br><color=orange>
+Missione<color_default><br>
+Porta tutte e 4 le Vesti di Sar-Issus a un astrologo e ricevi una ricompensa unica.

@@ -1,0 +1,1 @@
+﻿Comandante di cavalleria: Cavalieri, Paladini e Campioni nell'esercito dell'eroe ottengono un ulteriore bonus ai danni da Giostra pari a +1% per ogni livello dell'eroe. L'abilità Contrattacco dell'eroe infligge anche +1% di danni in più per ogni livello dell'eroe.

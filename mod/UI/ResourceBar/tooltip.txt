@@ -1,0 +1,2 @@
+﻿<center><tooltip_default><tooltip_title><value=name><tooltip_default><value=strings>
+<br><br><color_default>Usa l'abilità di gestione della città per controllare le entrate extra per i singoli eroi.

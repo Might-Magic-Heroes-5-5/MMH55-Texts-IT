@@ -1,0 +1,1 @@
+﻿Tutti gli incantesimi di Distruzione dal 1° al 4° cerchio lanciati dal nemico vengono diminuiti di 1 livello di destrezza (da Esperto ad Avanzato ecc.). La potenza magica viene ulteriormente ridotta del 15% per ogni livello in cui un incantesimo finisce al di sotto del livello Nullo.

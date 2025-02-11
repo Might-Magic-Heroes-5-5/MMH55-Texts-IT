@@ -1,0 +1,1 @@
+﻿L'abilità Impregna le frecce ora avrà effetto anche sulle Baliste. Tutti i tiri delle Baliste avranno gli incantamenti dell'eroe e quindi prosciugheranno il suo mana.

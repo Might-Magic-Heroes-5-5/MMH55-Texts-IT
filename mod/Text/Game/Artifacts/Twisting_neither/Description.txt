@@ -1,0 +1,2 @@
+﻿+5 Potere magico<br>
++1 Mana per ogni 2 mana spesi dall'eroe nemico.

@@ -1,0 +1,1 @@
+﻿Questa unità ha un bonus extra di +5 Difesa quando rimane ferma nella posizione di combattimento iniziale.

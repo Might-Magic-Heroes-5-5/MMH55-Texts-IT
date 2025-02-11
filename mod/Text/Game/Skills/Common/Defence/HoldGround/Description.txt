@@ -1,0 +1,1 @@
+﻿+30% Difesa alle unità sotto il comando dell'eroe che eseguono il comando Difendi.<br><color_default>Il bonus Radici in Difesa è raddoppiato e dà agli Uomini albero secolari un aumento del 100% alla Difesa.

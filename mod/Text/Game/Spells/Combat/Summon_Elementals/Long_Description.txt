@@ -1,0 +1,1 @@
+﻿Evoca un gruppo di Elementali che combattono al fianco dell'eroe. Il tipo di elementali evocati dipende dalle abilità che l'eroe ha appreso nella Magia dell'evocazione ed è per impostazione predefinita elementali della Terra se non vengono apprese abilità.

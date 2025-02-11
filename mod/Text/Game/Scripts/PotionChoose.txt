@@ -1,0 +1,8 @@
+﻿-------------------------------------------------- -----------------------
+POSTAZIONE COMMERCIALE
+-------------------------------------------------- -----------------------
+
+Scegli il tipo di Pozione desiderata:
+
+OK = Acquista pozione di mana (5000 oro)
+Annulla = Acquista pozione di movimento (10000 oro)

@@ -1,0 +1,4 @@
+﻿<color=yellow>Modalità Predefinita<color_default><br>
+* I giocatori IA non sono alleati ma la loro reciproca aggressività diminuisce alle difficoltà più elevate.
+* Gli eroi IA possono fuggire dal combattimento.
+* I siti di battaglia hanno una crescita del +10% nei giochi senza giocatori IA.

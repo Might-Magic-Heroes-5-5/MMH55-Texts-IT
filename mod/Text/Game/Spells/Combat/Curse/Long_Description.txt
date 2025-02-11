@@ -1,0 +1,1 @@
+﻿Riduce il danno massimo del bersaglio verso il suo danno minimo. Se il bersaglio è sotto l'influenza dell'incantesimo Forza Divina, verrà purificato. L'effetto non può superare il 100%.

@@ -1,0 +1,1 @@
+﻿Teletrasporta l'unità amica selezionata in un altro punto del campo di battaglia (Solo gli esperti possono teletrasportare le creature oltre le mura delle città).

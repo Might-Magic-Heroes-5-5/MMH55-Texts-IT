@@ -1,0 +1,1 @@
+﻿L'Iniziativa del bersaglio si abbassa di <value=enchant>%. Durata incantesimo: <value=duration> turni.

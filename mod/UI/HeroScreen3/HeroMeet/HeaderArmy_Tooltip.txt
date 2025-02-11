@@ -1,0 +1,1 @@
+﻿La finestra mostra le informazioni sulle caratteristiche dell'eroe e del suo esercito. Qui puoi riorganizzare le unità dell'esercito dell'eroe e passare unità da un eroe all'altro.

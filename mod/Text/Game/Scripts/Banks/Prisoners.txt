@@ -1,0 +1,1 @@
+﻿<color=yellow>Hai liberato <value=num> prigionieri (<value=upgtype>).

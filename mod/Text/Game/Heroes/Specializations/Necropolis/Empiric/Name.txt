@@ -1,0 +1,1 @@
+﻿Classe: Cavaliere della Morte<br>Specializzazione: Imbalsamatore<br><br><body_bright>La Tenda di Pronto Soccorso curerà 4 punti ferita in più per ogni punto Difesa dell'eroe, ma l'eroe inizia con -1 Difesa.<br><color_default>Inizia con l'abilità Tenda di Pronto Soccorso.

@@ -1,0 +1,1 @@
+﻿Impedisce a chiunque di ritirarsi dal combattimento. Questo artefatto non ha valore monetario e viene (una tantum) aggiunto all'inventario di qualsiasi eroe con l'abilità "Scuola di magia incatenata".

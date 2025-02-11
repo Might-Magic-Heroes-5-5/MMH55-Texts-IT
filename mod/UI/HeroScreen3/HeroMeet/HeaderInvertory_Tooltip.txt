@@ -1,0 +1,1 @@
+﻿Questa finestra mostra informazioni sugli artefatti del giocatore, sia quelli indossati che quelli tenuti da parte. Gli artefatti migliorano le caratteristiche dell'eroe o gli danno abilità speciali. Puoi scambiare gli artefatti tra gli eroi.

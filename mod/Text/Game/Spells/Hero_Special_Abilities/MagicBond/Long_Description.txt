@@ -1,0 +1,1 @@
+﻿Abilità speciale di combattimento. Ogni incantesimo successivo che colpisce le unità marchiate avrà effetto raddoppiato. Inoltre ogni incantesimo che colpisce le altre unità avrà effetto anche su quelle marchiate (se c'è sufficiente mana per lanciarlo nuovamente).

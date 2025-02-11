@@ -1,0 +1,1 @@
+﻿Classe: Cavaliere<br>Specializzazione: Addestratore di Grifoni<br><br><body_bright>Tutti i Grifoni, Grifoni imperiali e Grifoni da battaglia nell'esercito dell'eroe ottengono +1 Attacco e Difesa per ogni due livelli dell'eroe, a partire dal primo livello. I Grifoni non potenziati ottengono l'abilità Picchiata da battaglia.<br><color_default>Inizia con la Difesa avanzata.

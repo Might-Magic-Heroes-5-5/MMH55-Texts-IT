@@ -1,0 +1,1 @@
+﻿Mistico: l'eroe è in grado di ripristinare gradualmente il mana in combattimento da solo. La velocità di ripristino dipende dal suo livello. L'eroe riacquista livello/4 (arrotondato per eccesso) mana prima di ogni azione.

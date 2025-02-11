@@ -1,0 +1,2 @@
+﻿Danno: <color=green><value=damage><color=white><br>
+Morti: <color=red><value=kills><color=white>

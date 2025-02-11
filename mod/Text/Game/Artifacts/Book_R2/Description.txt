@@ -1,0 +1,5 @@
+﻿Uno dei segreti più profondi di Malassa è sopravvissuto attraverso i secoli in forma spirituale.<br>
++2 attacco<br>
++2 difesa<br>
++4000 esperienza<br><br>
+<color=7F38EC>Libro delle abilità<color_default><br>L'eroe ha bisogno di un po' di tempo per studiare questo oggetto e acquisire in modo permanente la conoscenza che contiene. All'inizio della prossima settimana l'oggetto scompare dallo zaino e il bonus viene applicato in modo permanente.

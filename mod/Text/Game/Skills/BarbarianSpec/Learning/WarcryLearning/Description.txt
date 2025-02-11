@@ -1,0 +1,1 @@
+﻿L'eroe ottiene +2 Conoscenza ed è in grado di apprendere le Grida di Guerra dagli eroi amici che incontra, o dagli eroi nemici in combattimento, anche senza avere i prerequisiti adatti. L'eroe può anche insegnare ad altri eroi le Grida di Guerra che conosce, ma solo se hanno i prerequisiti adatti.

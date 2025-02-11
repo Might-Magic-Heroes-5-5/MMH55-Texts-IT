@@ -1,0 +1,1 @@
+﻿<body_bright><center>Ruota delle abilità<br><br><color_default>Visualizza uno schema dettagliato delle capacità e delle abilità disponibili per ogni classe dell'eroe insieme agli attributi e alle spiegazioni di tutte le capacità e abilità in MMH5.5.

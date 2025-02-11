@@ -1,0 +1,1 @@
+﻿La Conoscenza dell'eroe aumenta il suo Mana massimo: Mana massimo = 10 * Conoscenza. Migliora inoltre l'efficacia di molti artefatti, di alcune abilità e della Balista.

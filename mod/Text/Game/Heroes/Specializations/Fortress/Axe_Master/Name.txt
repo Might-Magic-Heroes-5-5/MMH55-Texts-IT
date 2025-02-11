@@ -1,0 +1,1 @@
+﻿Classe: Ingegnere<br>Specializzazione: Lama affilata<br><br><body_bright>Tutti i Lancieri, Prima Linea e Ramponieri nell'esercito dell'eroe ottengono +1 Attacco e Difesa per ogni due livelli dell'eroe, a partire dal primo livello.<br><color_default>Inizia con l'abilità Fortuna del soldato.

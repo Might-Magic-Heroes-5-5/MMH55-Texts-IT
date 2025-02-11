@@ -1,0 +1,4 @@
+﻿Permette all'eroe che la visita di imparare gli incantesimi custoditi all'interno. Contiene 2 incantesimi del quinto cerchio.<br><br>
+<color=green>Porta Cittadina<color_default><br>Consente a tutti gli eroi di teletrasportarsi in questa città da qualsiasi posizione sulla mappa.<br><br>
+<color=orange>Manticore<color_default><br>Questo edificio può evocare Manticore e aggiungerle alla guarnigione cittadina ogni settimana. La quantità di Manticore dipende dalla quantità di Cristalli del sangue di Drago che gli eroi hanno raccolto (A) e dal livello di esperienza di quegli eroi (B). Formula = sqrt(sum(A*B))/30 * (3+livello gilda), in cui sum(A*B) non può superare 600. La quantità è zero se non vengono raccolti cristalli.<br><br>
+<color=0099FF>Governance<color_default><br>Conferisce al Governatore di questa città un bonus di +5 Potere magico.

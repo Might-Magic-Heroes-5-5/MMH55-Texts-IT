@@ -1,0 +1,1 @@
+﻿L'eroe potenzia le armi di tutte le unità nel suo esercito perché colpiscano con danno di ghiaccio aggiuntivo (non solo le unità non-morte ricevono questi potenziamenti). Il bersaglio subisce un danno di ghiaccio elementale pari al 10% del danno primario inflitto.

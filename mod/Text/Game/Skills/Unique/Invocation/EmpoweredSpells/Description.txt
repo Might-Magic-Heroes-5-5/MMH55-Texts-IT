@@ -1,0 +1,1 @@
+﻿Tutti gli incantesimi di danno diretto possono essere lanciati dall'eroe con più potere. Il danno aggiuntivo è pari al 30% + 1% per livello dell'eroe, ma il costo di mana è raddoppiato.

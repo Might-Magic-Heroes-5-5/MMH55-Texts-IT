@@ -1,0 +1,1 @@
+﻿Concede all'eroe 5000 punti esperienza moltiplicati per il numero di Insegnanti dei Sogni visitati dall'eroe.

@@ -1,0 +1,4 @@
+﻿+1 Potere magico<br><br>
+Resuscita una quantità di unità native di livello 3 dopo il combattimento. La quantità è pari al 30% + 1%*C di tutte le perdite o in alternativa 30 + 10*C di tutti i Punti Ferita persi (a seconda di quale risultato risulti in più unità resuscitate). La resurrezione richiede 8 mana.<color_default> C = Conoscenza dell'eroe e la quantità viene arrotondata per difetto. Le unità non morte, meccaniche ed elementali non possono essere resuscitate.
+<br><color=purple>Vesti del Santo<color_default><br>
+-2 Costo di mana di resurrezione per artefatto (3/7)

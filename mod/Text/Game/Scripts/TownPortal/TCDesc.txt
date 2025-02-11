@@ -1,0 +1,1 @@
+﻿Trasforma le città possedute nella fazione dell'eroe (costa risorse in base al livello della città). L'eroe deve trovarsi di fronte alla città. Le città con capitali non possono essere convertite. Tutti gli edifici cittadini verranno convertiti, ad eccezione degli edifici speciali.

@@ -1,0 +1,1 @@
+﻿Tre volte per combattimento, l'unità può aumentare la Fortuna delle unità amiche selezionate o diminuire quella delle unità nemiche selezionate per un valore casuale compreso tra 1 e 3 (abilità da attivare).

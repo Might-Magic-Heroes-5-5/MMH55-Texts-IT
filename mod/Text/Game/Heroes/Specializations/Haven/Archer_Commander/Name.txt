@@ -1,0 +1,1 @@
+﻿Classe: Cavaliere<br>Specializzazione: Comandante degli arcieri<br><br><body_bright>Tutti gli Arcieri, Tiratori scelti e Balestrieri nell'esercito dell'eroe ottengono +1 Attacco e Difesa per ogni due livelli dell'eroe, a partire dal primo livello.<br><color_default>Inizia con il Comando di base.

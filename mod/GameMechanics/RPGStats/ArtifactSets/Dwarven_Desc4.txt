@@ -1,0 +1,2 @@
+﻿Fornisce +40% di Prova Magica a tutte le unità dell'esercito. Assegna gli incantesimi Resistenza e Respingi Dardo a livello esperto a tutte le unità amiche all'inizio del combattimento. Ingegneri, Maghi delle Rune e Guardiani delle Fiamme aumentano la loro Conoscenza di +4.
+

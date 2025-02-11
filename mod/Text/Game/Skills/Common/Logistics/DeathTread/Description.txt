@@ -1,0 +1,1 @@
+﻿Tutte le unità dell'eroe ottengono +3 Velocità durante l'assedio di una città nemica e la catapulta ottiene un totale di 4 colpi per turno.

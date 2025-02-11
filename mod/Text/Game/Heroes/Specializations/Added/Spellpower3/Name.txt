@@ -1,0 +1,1 @@
+﻿Classe: Druido<br>Specializzazione: Saggio<br><br><body_bright>Il Potere magico dell'eroe aumenta di +1 ogni 6 livelli.<br><color_default>Inizia con la Magia della distruzione di base.

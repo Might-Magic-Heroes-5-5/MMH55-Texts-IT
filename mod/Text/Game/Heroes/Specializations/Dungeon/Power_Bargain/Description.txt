@@ -1,0 +1,1 @@
+﻿Catalizzatore: il costo di mana degli incantesimi potenziati è ridotto del 20% + 0,25% per livello dell'eroe.

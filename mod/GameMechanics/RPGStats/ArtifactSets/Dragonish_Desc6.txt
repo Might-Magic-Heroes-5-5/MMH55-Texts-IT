@@ -1,0 +1,1 @@
+﻿+4 a tutti i parametri dell'eroe e +5 Attacco e Difesa a tutte le unità di livello 7 nell'esercito, aumentando inoltre i loro punti ferita di +20.

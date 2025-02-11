@@ -1,0 +1,1 @@
+﻿Bevitore di anime: l'incantesimo Sofferenza non solo abbassa l'Attacco dell'unità, ma riduce anche la sua Difesa di un ammontare pari al livello dell'eroe/3, arrotondato per eccesso. La diminuzione della Difesa dura per tutta la durata dell'incantesimo e non è cumulativa. L'effetto viene perso se l'incantesimo viene sostituito da un incantesimo Maledizione lanciato da un'unità.

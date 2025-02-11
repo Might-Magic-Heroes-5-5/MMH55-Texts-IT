@@ -1,0 +1,31 @@
+﻿-------------------------------------------------- -----------------------
+PROSSIMA AZIONE
+-------------------------------------------------- -----------------------
+
+OK = Teletrasporto alla città più vicina*
+Annulla = Chiudi questa finestra
+
+*Il tuo Barbaro può usare solo il normale incantesimo del Portale della città da qui.
+
+-------------------------------------------------- -----------------------
+INFORMAZIONI SULL'EROE
+-------------------------------------------------- -----------------------
+
+Ruolo dell'Eroe: <value=occupation>
+Punti movimento: <value=movement>
+Rigenerazione mana giornaliera: <value=mana>
+Entrate extra giornaliere in oro: <value=estates>
+Cristalli del sangue di Drago: <value=dragonblood>
+Rinforzi settimanali dagli artefatti: T<value=artifactsummons_tier>:<value=artifactsummons>
+Unità evocate settimanalmente: <value=summons>
+Reclute settimanali (Governance): T1:<value=tier1> T2:<value=tier2> T3:<value=tier3> T4:<value=tier4> T5:<value=tier5> T6:<value=tier6> T7: <value=tier7>
+
+-------------------------------------------------- -----------------------
+IMPOSTAZIONI DELLA MAPPA
+-------------------------------------------------- -----------------------
+
+Governance: <value=governance>
+Conversione della città: <value=conversion>
+Numero massimo di città per fazione: <value=maxtowns>
+Insediamenti massimi per fazione: T1:<value=t1d> T2:<value=t2d> T3:<value=t3d>
+Avamposti massimi per fazione: <value=t4d>

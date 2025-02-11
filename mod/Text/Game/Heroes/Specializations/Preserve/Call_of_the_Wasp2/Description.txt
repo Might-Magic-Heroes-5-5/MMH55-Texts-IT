@@ -1,0 +1,1 @@
+﻿Regina dello sciame: l'incantesimo Sciame di vespe è più efficace e l'eroe imparerà l'incantesimo Evoca Alveare al livello 15. Il danno aumenta del 5% per livello dell'eroe. La riduzione base del valore ATB viene moltiplicata per (1+0,02*livello dell'eroe/3).

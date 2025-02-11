@@ -1,0 +1,1 @@
+﻿Infligge ingenti danni alle mura e alle torri della città durante un assedio e una piccola quantità di danni fisici a tutte le unità (amiche e nemiche) anche se lanciato al di fuori di una battaglia d'assedio. Il danno alle unità è pari a 20 + (2 * Potere magico), indipendentemente dal livello di maestria.

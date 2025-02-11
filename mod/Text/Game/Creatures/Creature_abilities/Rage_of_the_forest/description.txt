@@ -1,0 +1,1 @@
+﻿L'unità può aumentare il proprio Attacco a spese della Difesa, togliendo metà dei punti di quest'ultima e aggiungendoli al primo. Perdura tutto il combattimento e conferisce un bonus extra all'Iniziativa.

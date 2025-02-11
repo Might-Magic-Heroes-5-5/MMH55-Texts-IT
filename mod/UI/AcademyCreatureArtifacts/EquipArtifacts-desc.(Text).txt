@@ -1,0 +1,1 @@
+﻿Un eroe con l'abilità Artificiere può creare artefatti per incantare le creature alleate. Questi artefatti sono conservati in una borsa speciale. Solo le unità dell'Accademia possono essere incantate in questo modo.

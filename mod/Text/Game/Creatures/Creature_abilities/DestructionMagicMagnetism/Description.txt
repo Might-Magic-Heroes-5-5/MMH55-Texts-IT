@@ -1,0 +1,1 @@
+﻿Se si trova sotto l'area d'effetto di un incantesimo di Distruzione insieme ad un altro gruppo alleato, quest'unità riceve parte del danno che riceverebbero le unità amiche. Il danno assorbito è del 2% per popolazione settimanale e il 25% di esso viene convertito in cure dall'Armatura incantata. Questa capacità non funziona con l'incantesimo Armageddon.

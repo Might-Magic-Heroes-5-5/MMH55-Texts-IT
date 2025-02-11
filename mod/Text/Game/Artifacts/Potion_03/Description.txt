@@ -1,0 +1,3 @@
+﻿+2 Potere magico<br><br>
+Una quantità di Aquile Arcane può essere resuscitata dopo il combattimento. La quantità è pari al 30% + 1%*C di tutte le perdite o in alternativa 130 + 10*C di tutti i Punti Ferita persi (a seconda di quale risultato risulti in più unità resuscitate). La resurrezione richiede 12 mana.<color_default> C = Conoscenza dell'eroe e la quantità viene arrotondata per difetto.<br><br>
+<color_default>Il bonus al potere magico scomparirà e nessuna Aquila Arcana potrà essere resuscitata se l'eroe non è un Artefice.

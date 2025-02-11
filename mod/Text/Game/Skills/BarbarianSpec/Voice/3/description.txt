@@ -1,0 +1,1 @@
+﻿L'uso di un'abilità attivata della categoria Grido di Battaglia diminuisce del 33% il ritardo del turno successivo dell'eroe, ma il Morale viene ridotto di -3 se l'eroe ha l'abilità Empatia.<br><color_default>L'Iniziativa base dell'eroe è 10 ed è aumentata a 15 finché vengono utilizzati i Gridi di Battaglia.

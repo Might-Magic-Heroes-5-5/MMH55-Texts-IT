@@ -1,0 +1,6 @@
+﻿+2 Potere magico se equipaggiato<br>
++C/2 Zolfo a settimana<br><color_default>
+(C=Conoscenza dell'eroe, ad esempio 10 Zolfo a settimana per 20 Conoscenza)<br><br><color=orange>
+Cornucopia<color_default><br>Raccogli un artefatto per ogni tipo di risorsa (eccetto l'oro) e visita una Biblioteca arcana per una ricompensa unica.<br><br><color=yellow>
+Zaino<color_default><br>
+Le risorse si ottengono anche quando l'artefatto è nello zaino, ma la funzionalità è limitata a un artefatto per tipo di risorsa e per eroe.

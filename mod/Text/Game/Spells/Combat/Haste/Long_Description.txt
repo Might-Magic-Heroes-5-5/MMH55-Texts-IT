@@ -1,0 +1,1 @@
+﻿Fa agire più frequentemente in combattimento l'unità amica selezionata. Se il bersaglio è sotto l'influenza dell'incantesimo Lentezza, entrambi gli effetti rimarranno attivi e la differenza di forza dei lanciatori determinerà il risultato.

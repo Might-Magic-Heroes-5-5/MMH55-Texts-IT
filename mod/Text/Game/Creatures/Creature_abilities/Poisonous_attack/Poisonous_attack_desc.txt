@@ -1,0 +1,1 @@
+﻿Oltre a subire i danni normali, l'unità attaccata viene avvelenata. Il danno da veleno è proporzionale al numero di unità nel gruppo attaccante (al momento dell'avvelenamento). Ogni Assassino e Predatore infligge 1 danno per le successive 3 azioni. Ogni Manticora infligge 8 danni per le successive 3 azioni.

@@ -1,0 +1,1 @@
+﻿Le baliste dell'eroe ignorano il 50% di difesa del nemico e infliggono un danno di fuoco aggiuntivo. Il danno per colpo è uguale al livello dell'eroe. Le baliste distrutte verranno ripristinate dopo il combattimento.

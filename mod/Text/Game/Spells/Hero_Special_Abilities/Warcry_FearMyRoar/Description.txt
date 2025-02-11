@@ -1,0 +1,1 @@
+﻿Il potente ruggito dell'eroe aumenta notevolmente la furia di tutti gli Orchi nel suo esercito e ha la possibilità di spaventare le unità nemiche selezionate e impostare il loro valore ATB a 0. La possibilità di spaventare il bersaglio è del 50% + 5% * (livello dell'eroe – livello unità). Questo grido di guerra non funziona sulle unità immuni al controllo mentale.

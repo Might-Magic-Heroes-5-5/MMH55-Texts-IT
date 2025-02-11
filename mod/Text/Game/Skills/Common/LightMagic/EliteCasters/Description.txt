@@ -1,0 +1,1 @@
+﻿L'eroe guadagna +2 Morale e tutti gli incantatori nell'esercito dell'eroe useranno solo metà del mana richiesto per lanciare gli incantesimi.

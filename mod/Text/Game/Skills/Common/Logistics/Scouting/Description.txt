@@ -1,0 +1,1 @@
+﻿+8 al raggio visivo dell'eroe, e possibilità di sapere con precisione il numero di unità nei gruppi neutrali, negli eserciti nemici, nelle città e nelle guarnigioni nel suo raggio visivo. La possibilità che un'unità di livello 1 muoia durante l'esplorazione di un luogo di battaglia è ridotta del 50%.<br><color_default>Il raggio visivo base degli eroi è di 16 caselle.

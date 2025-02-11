@@ -1,0 +1,1 @@
+﻿L'eroe riceve un'abilità speciale di combattimento che incoraggia le sue unità, accelerando l'arrivo del loro turno. Il valore ATB del bersaglio aumenta di 0,4, fino a 1. Il valore ATB dell'eroe viene ripristinato a 0,1 dopo l'uso.

@@ -1,0 +1,8 @@
+﻿+3 Difesa<br>
++3 Conoscenza<br>
+Rende tutte le unità dell'esercito immuni agli incantesimi di Accecamento<br>
+<br><color=purple>
+Armatura dei Re Nanici<color_default><br>
++4 difesa (2/4)<br>
++8 difesa (4/4)<br>
+*Il bonus del set viene applicato dopo aver chiuso la schermata Inventario.

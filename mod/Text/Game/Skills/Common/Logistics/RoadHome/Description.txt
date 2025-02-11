@@ -1,0 +1,1 @@
+﻿Abilità di avventura: tutte le unità nell'esercito dell'eroe ricevono +1 Velocità di movimento se la battaglia si svolge su terreno sterrato e gli eroi della Necropoli raccolgono un numero aggiuntivo di fantasmi ogni settimana. La quantità è pari alla loro Conoscenza e verrà aggiunto al loro esercito al posto degli scheletri dell'abilità Signore dei non morti.

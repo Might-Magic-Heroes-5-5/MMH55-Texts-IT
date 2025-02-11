@@ -1,0 +1,2 @@
+﻿Consente ai Vendicatori di selezionare i propri nemici preferiti e aumenta la Conoscenza di tutti i Vendicatori di +1 (cumulabile con più città e non richiede la visita della città)<br><br>
+<color=0099FF>Governance<color_default><br>Conferisce al Governatore di questa città un bonus di Conoscenza +1.

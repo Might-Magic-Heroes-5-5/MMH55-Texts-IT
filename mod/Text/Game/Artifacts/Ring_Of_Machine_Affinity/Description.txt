@@ -1,0 +1,4 @@
+﻿+1 Tiro alla Balista<br>
++1 Tiro alla Catapulta<br>
++50% alle cure per la tenda del pronto soccorso<br>
++4 Attacco a tutte le unità dell'esercito dell'eroe che tirano se è presente il carrello delle munizioni

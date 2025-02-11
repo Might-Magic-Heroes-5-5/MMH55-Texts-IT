@@ -1,0 +1,1 @@
+﻿Migliora l'attacco dell'unità amica selezionata di una quantità che dipende dal Potere magico. Se il bersaglio è sotto l'influenza dell'incantesimo Sofferenza, entrambi gli effetti rimarranno attivi e la differenza di forza degli incantatori determinerà il risultato.

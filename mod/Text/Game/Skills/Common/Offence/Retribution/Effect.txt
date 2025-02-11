@@ -1,0 +1,1 @@
+﻿Castigo<br><color_default>+3% di Danno per ogni punto Morale

@@ -1,0 +1,9 @@
+﻿Consigli veloci:
+
+- Utilizzare solo MMH55_Utility.exe e MMH55_Editor.exe per generare mappe.
+- Attenersi alle dimensioni della mappa e al conteggio dei giocatori indicati nel modello.
+- MMH55_utility.exe forzerà dimensioni maggiori per le mappe dell'acqua, funziona bene.
+- Le mappe ARMG non funzioneranno in LAN o Hotseat se gli script non sono attivati.
+- Utilizzare Mapmixer per attivare gli script.
+- Elabora le mappe dell'acqua con mapmixer altrimenti le acque saranno molto noiose.
+- Le visualizzazioni per tutti i modelli possono essere trovate nel manuale .pdf.

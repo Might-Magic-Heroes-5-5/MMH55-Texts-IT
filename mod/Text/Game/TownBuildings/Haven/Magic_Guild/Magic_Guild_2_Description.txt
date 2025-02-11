@@ -1,0 +1,3 @@
+﻿<color_bright>Permette all'eroe che la visita di imparare gli incantesimi custoditi all'interno. Aggiunge 3 incantesimi del secondo cerchio.<br><br>
+<color=orange>Lupi<color_default><br>Questo edificio può evocare Lupi e aggiungerli alla guarnigione cittadina ogni settimana. La quantità di Lupi dipende dalla quantità di Cristalli del sangue di Drago che gli eroi hanno raccolto (A) e dal livello di esperienza di quegli eroi (B). Formula = sqrt(sum(A*B))/12 * (3+livello gilda), in cui sum(A*B) non può superare 600. La quantità è zero se non vengono raccolti cristalli.<br><br>
+<color=0099FF>Governance<color_default><br>Conferisce al Governatore di questa città un bonus di +2 Potere magico.

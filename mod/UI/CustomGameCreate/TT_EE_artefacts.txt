@@ -1,0 +1,1 @@
+﻿Nasconde gli artefatti sulla mappa e gli eroi neutrali li usano se l'impostazione è superiore a Facile. Gli artefatti vengono sostituiti con fuochi da campo. I fuochi da campo aumenteranno il tuo movimento e il tuo mana. La rigenerazione del mana è ridotta della metà. La generazione dell'esercito neutrale misto sarà sempre disabilitata quando questa funzione è selezionata.

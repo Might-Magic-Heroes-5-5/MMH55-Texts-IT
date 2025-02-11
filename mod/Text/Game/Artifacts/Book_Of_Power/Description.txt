@@ -1,0 +1,5 @@
+﻿+1 Potere magico<br>
++1 Conoscenza<br>
+Concede l'abilità di apprendere qualsiasi incantesimo del quarto cerchio se l'eroe possiede Onniscienza arcana.<color_default><br>
++2 Potere magico e +2 Conoscenza se l'eroe possiede Illuminazione avanzata<br>
++3 Potere magico e +3 Conoscenza se l'eroe possiede Illuminazione esperta<br>

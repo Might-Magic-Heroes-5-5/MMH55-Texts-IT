@@ -1,0 +1,22 @@
+﻿-------------------------------------------------- -----------------------
+CONTRATTO DI GOVERNO
+-------------------------------------------------- -----------------------
+
+Vantaggi:
+
+- L'eroe guadagna una quantità di esperienza giornaliera a seconda del livello della città e del livello dell'eroe.
+- Gli insediamenti cittadini riceveranno una % di reclute extra ogni settimana, la % è pari al livello dell'eroe, se il livello dell'eroe è troppo basso non verranno ricevute unità extra.
+- L'eroe otterrà vari bonus esclusivi dagli edifici della città.
+- Se la città ha una gilda dei maghi di livello 5, l'eroe può usare la Porta Cittadina e teletrasportarsi in questa città, all'eroe non è consentito lasciare la sua postazione e teletrasportarsi in altre città.
+- Se l'eroe possiede qualche manufatto Insegne della Legione, le unità verranno invece aggiunte agli insediamenti cittadini e la quantità verrà calcolata come se l'eroe avesse 5 Conoscenza in più.
+
+Obblighi:
+
+- L'eroe deve rimanere entro un raggio di 50 caselle attorno a questa città. Al di fuori di questo raggio l'eroe perderà sempre più punti movimento man mano che andrà avanti, inoltre eventuali bonus concessi dalla città verranno rimossi. Inoltre i governatori di livello inferiore al 5 perdono alcuni punti movimento anche se sono vicini alla città.
+- L'eroe non può utilizzare più di 10 Cristalli Sangue di Drago, i Cristalli in eccesso diventeranno funzionali dopo le dimissioni.
+- L'eroe può recedere dal contratto solo quando si trova alle porte di questa città. L'eroe è obbligato a governare questa città per almeno un mese, se l'eroe decide di dimettersi prima dovrà pagare una multa agli abitanti della città pari a [numero di giorni non in carica]*[il suo livello]*100.
+
+-------------------------------------------------- -----------------------
+
+OK = Firma il contratto
+Annulla = Rifiuta

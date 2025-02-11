@@ -1,0 +1,6 @@
+﻿+3 Attacco<br>
++3 Mana dopo ogni battaglia<br><br><color=purple>
+Tunica del Profeta<color_default><br>
++4 Potere magico (3/5)<br>
++8 potere magico (5/5)<br>
+*Il bonus del set viene applicato dopo aver chiuso la schermata Inventario.

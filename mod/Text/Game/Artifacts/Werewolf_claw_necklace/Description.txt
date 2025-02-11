@@ -1,0 +1,2 @@
+﻿+1 al danno a tutte le unità dell'esercito dell'eroe<br><br><color=orange>
+Lupi<color_default><br>Sacrifica questo artefatto in un tempio ed evocherà una pila di lupi. La dimensione della pila è pari a 6*numero di settimane trascorse.

@@ -1,0 +1,1 @@
+﻿Martellatore: l'eroe attacca casualmente un'unità nemica all'inizio del combattimento. Inoltre, tutti gli attacchi dell'eroe infliggono +1% di danno per ogni livello dell'eroe.

@@ -1,0 +1,1 @@
+﻿<color=red>Il cancello è occupato da un altro eroe!

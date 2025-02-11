@@ -1,0 +1,4 @@
+﻿+3 Fortuna se equipaggiato<br>
++C*200 Oro al giorno<br><color_default>
+(C=Conoscenza dell'eroe, ad esempio 4000 Oro al giorno per 20 Conoscenza)<br><br>
+<color=yellow>Zaino<color_default><br>Questo artefatto funziona dallo zaino, ma la funzionalità è limitata a un artefatto per eroe.

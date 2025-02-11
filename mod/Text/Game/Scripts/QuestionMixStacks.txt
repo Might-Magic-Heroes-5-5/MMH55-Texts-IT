@@ -1,0 +1,3 @@
+﻿Vorresti generare gruppi neutrali misti prima dell'inizio della partita?
+
+(ATTENZIONE: la generazione continuerà indipendentemente dalle dimensioni di questa mappa e potrebbe bloccare il gioco per alcuni minuti)

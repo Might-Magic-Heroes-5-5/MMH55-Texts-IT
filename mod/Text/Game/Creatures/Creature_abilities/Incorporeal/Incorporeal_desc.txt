@@ -1,0 +1,1 @@
+﻿Questa unità è incorporea, quindi tutti gli attacchi non magici contro di essa hanno solo il 50% di probabilità di fare danni. L'abilità non è del tutto casuale, dopo essere stata mancata due volte il successivo colpo fisico andrà sempre a segno, mentre dopo essere stata colpita due volte il successivo colpo fisico mancherà sempre.

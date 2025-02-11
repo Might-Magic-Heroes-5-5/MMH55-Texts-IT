@@ -1,0 +1,1 @@
+﻿Intimidire: le unità nemiche subiscono penalità all'Iniziativa, a seconda del livello dell'eroe. L'iniziativa del nemico è ridotta del 2% + 0,2% per livello dell'eroe.

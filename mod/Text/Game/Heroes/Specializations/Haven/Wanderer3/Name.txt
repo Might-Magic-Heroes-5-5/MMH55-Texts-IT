@@ -1,0 +1,1 @@
+﻿Classe: Guardiano della fiamma<br>Specializzazione: Esploratore<br><br><body_bright>I Punti movimento dell'eroe aumentano dell'1% per ogni due livelli dell'eroe. L'eroe guadagna inoltre +250 punti esperienza dopo ogni battaglia.<br><color_default>Inizia con la Magia della distruzione avanzata.

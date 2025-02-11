@@ -1,0 +1,1 @@
+﻿L'eroe ottiene +2 Potere magico e lo aumenta ulteriormente di +1 per ogni 10 livelli. L'eroe impara anche un nuovo incantesimo casuale di livello 1-3, per il quale ha i requisiti necessari.

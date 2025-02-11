@@ -1,0 +1,6 @@
+﻿+1 Attacco<br>
++50% di possibilità di saccheggiare una risorsa casuale dopo ogni battaglia<br><br><color=purple>
+Abbigliamento da pirata<color_default><br>
++6 Attacco (3/6)<br>
++12 Attacco (6/6)<br>
+*Il bonus del set viene applicato dopo aver chiuso la schermata Inventario.

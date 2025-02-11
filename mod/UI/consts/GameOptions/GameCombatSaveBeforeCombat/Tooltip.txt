@@ -1,0 +1,1 @@
+﻿Il gioco verrà salvato automaticamente prima di ogni combattimento.

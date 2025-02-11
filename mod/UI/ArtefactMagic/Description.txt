@@ -1,0 +1,3 @@
+﻿<h4> Gli eroi della roccaforte possono potenziare qui i loro talismani per ottenere nuovi incantesimi d'avventura<br>
+
+<body_bright>L'eroe <value=hero_name> ora ha <value=talisman_level>.

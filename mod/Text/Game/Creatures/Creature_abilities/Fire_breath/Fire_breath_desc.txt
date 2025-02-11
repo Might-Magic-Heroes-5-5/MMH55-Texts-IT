@@ -1,0 +1,1 @@
+﻿Durante gli attacchi, l'unità non danneggia solo il bersaglio ma anche qualsiasi unità (amica o nemica) che si trovi alle sue spalle.

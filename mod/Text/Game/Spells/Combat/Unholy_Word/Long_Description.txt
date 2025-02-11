@@ -1,0 +1,1 @@
+﻿Infligge danno blasfemo a tutte le unità viventi sul campo di battaglia tranne le creature non-morte, elementali, orchi e infernali. (Gli Elfi Oscuri non sono immuni)

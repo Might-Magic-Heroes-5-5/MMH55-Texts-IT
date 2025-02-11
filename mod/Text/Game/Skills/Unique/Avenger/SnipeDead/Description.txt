@@ -1,0 +1,1 @@
+﻿Aumenta il danno provocato dall'eroe quando attacca le unità nemiche, con un bonus di +3 al loro livello per il calcolo del danno. Se l'unità è presente sulla lista dei nemici preferiti dell'eroe, allora avverrà un colpo critico e il danno inflitto sarà raddoppiato, uccidendo sicuramente almeno una unità.

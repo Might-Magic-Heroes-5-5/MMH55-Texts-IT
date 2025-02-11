@@ -1,0 +1,7 @@
+﻿Non è possibile inviare esploratori in questo posto, vorresti attaccare le guardie?
+-------------------------------------------------- -----------------------
+
+OK = Attacca
+Annulla = Lascia
+
+-------------------------------------------------- -----------------------

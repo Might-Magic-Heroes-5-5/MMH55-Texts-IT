@@ -1,0 +1,1 @@
+﻿Evoca uno sciame di insetti che infligge danno magico alle unità nemiche selezionate. La creatura verrà distratta e il suo valore ATB ridotto di 0.2,0.25,0.3 o 0.4, a seconda del livello di maestria.<br><color_default>L'incantesimo non funziona su unità non-morte, elementali e meccaniche.

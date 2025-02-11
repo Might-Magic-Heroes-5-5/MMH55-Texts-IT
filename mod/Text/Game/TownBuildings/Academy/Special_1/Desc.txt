@@ -1,0 +1,2 @@
+﻿Rivela 1 incantesimo extra per ogni cerchio della Gilda della Magia.<br><br>
+<color=0099FF>Governance<color_default><br>Conferisce al Governatore di questa città un bonus di Conoscenza +2.

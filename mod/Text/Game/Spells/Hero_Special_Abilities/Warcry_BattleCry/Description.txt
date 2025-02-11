@@ -1,0 +1,1 @@
+﻿L'eroe ispira un gruppo di Orchi amici a caricare in avanti. Per un turno le unità selezionate avranno +3 Velocità e Attacco aumentato (pari a 1 + Livello/4). Conferisce punti furia aggiuntivi a tutte le unità della Roccaforte nell'esercito.

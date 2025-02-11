@@ -1,0 +1,1 @@
+﻿Classe: Negromante<br>Specializzazione: Rianimatore<br><br><body_bright>L'incantesimo Rianimazione ha un effetto maggiore. Il Potere magico di questo incantesimo aumenta di +1 per ogni 3 livelli dell'eroe, a partire dal primo livello.<br><color_default>Inizia con la Magia oscura di base.

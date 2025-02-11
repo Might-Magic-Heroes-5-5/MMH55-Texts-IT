@@ -1,0 +1,1 @@
+﻿Il mercato degli schiavi permette di vendere unità in cambio di oro. Il prezzo di vendita dipende dal numero di mercati nel tuo regno. Tutti gli eroi della Roccaforte con la capacità Logistica ottengono anche il 50% di rinforzi in più ogni settimana (non cumulabile con più città).

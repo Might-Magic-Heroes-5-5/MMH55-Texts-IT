@@ -1,0 +1,1 @@
+﻿Abilità di avventura: l'eroe diventa un mentore. Quando un mentore incontra un altro eroe amico, questi ottiene l'esperienza necessaria a raggiungere il 10% dell'esperienza del suo mentore (funziona solo se l'eroe prima aveva meno esperienza).

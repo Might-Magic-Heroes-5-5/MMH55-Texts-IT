@@ -1,0 +1,1 @@
+﻿Infligge enormi danni di fuoco a tutte le unità e le macchine da guerra sul campo di battaglia e danno fisico nel punto di impatto.<br><color_default>La formula del danno per il danno fisico aggiuntivo è la stessa di un Fulmine Potenziato.

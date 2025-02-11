@@ -1,0 +1,2 @@
+﻿+4 a tutti i parametri dell'eroe e +5 Attacco e Difesa a tutte le unità di livello 7 nell'esercito, aumentando inoltre i loro punti ferita di +20. 
+Rinforza l'esercito fornendo all'eroe un'unità di livello 5 ogni giorno.

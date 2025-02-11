@@ -1,0 +1,4 @@
+﻿+3 Potere magico<br>
++20% Esperienza<br><br>
+<color=purple>Veste dell'Illuminazione<color_default><br>
+L'eroe riceve una quantità di esperienza ogni giorno indossando sia l'Elmo che l'Armatura dell'Illuminazione. La quantità è pari al numero di giorni trascorsi * 10.

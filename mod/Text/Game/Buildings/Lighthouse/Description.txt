@@ -1,0 +1,1 @@
+﻿Aumenta di 300 i Punti movimento di tutti gli eroi in navigazione controllati dal giocatore.

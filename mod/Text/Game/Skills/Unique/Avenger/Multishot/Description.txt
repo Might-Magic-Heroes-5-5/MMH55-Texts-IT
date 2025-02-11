@@ -1,0 +1,1 @@
+﻿Concede all'eroe l'abilità di attaccare tutte le unità nemiche presenti sulla sua lista di nemici preferiti contemporaneamente. Il danno inflitto a ciascun bersaglio è inferiore al normale danno diretto dell'eroe, con una penalità di -3 al loro livello per il calcolo del danno.

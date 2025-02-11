@@ -1,0 +1,1 @@
+﻿L'unità è immune a tutti i tipi di magia eccetto quelle che infliggono danni fisici. Ogni incantesimo che infligga danni magici vede guariti il 25% dei danni (con resurrezione).

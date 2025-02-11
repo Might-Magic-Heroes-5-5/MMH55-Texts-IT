@@ -1,0 +1,1 @@
+﻿Ti permette di regolare quanto tempo passa prima che appaia la Sala delle Decisioni.

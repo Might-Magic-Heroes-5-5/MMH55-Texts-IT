@@ -1,0 +1,3 @@
+﻿L'eroe impara l'incantesimo Evocazione degli elementali e d'ora in poi questo incantesimo evocherà sempre gli Elementali dell'Aria.<br><br>
+<color=orange>Discepolo di Ylath<br>
+<color_default>Studiando i poteri del Dio Drago dell'Aria, l'eroe raccoglie 10 cristalli di sangue del drago (Finché l'eroe ha questa abilità, tutte le gilde dei maghi evocheranno automaticamente le unità all'inizio di ogni settimana).

@@ -1,0 +1,1 @@
+﻿Posa <value=duration> mine con <value=damage> danni.

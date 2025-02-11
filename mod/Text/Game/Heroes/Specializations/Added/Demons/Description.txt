@@ -1,0 +1,1 @@
+﻿Demonologo: l'eroe inizia con +2 Conoscenza e all'inizio di ogni settimana ulteriori Demoni cornuti, Sovrintendenti infernali o Bestie cornute si uniranno all'esercito dell'eroe (a condizione che alcune di queste unità siano già presenti). La quantità è pari al livello dell'eroe e aumenta del 75% per ogni città aggiuntiva catturata della stessa fazione dell'eroe.

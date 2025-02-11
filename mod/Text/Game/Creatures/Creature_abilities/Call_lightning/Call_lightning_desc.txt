@@ -1,0 +1,1 @@
+﻿L'unità lancia un fulmine che causa danni magici pari a 40 * la dimensione della pila. Può essere usato come attacco a distanza anche quando la pila è impegnata in corpo a corpo.

@@ -1,0 +1,7 @@
+﻿Al momento non ci sono unità native di livello 1 nel tuo esercito che consentano l'esplorazione di questo posto. Vorresti attaccare le guardie senza esplorare?
+-------------------------------------------------- -----------------------
+
+OK = Attacca
+Annulla = Lascia
+
+-------------------------------------------------- -----------------------

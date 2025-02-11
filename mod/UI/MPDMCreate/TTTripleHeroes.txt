@@ -1,0 +1,1 @@
+﻿Duello per due giocatori in modalità 3x3, in cui ogni giocatore ha tre armate e può spostarsi da una all'altra durante il combattimento.

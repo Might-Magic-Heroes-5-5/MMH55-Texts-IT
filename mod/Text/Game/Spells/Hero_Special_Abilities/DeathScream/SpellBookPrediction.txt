@@ -1,0 +1,1 @@
+﻿Abbassa l'iniziativa di <value=initiative_bonus>%, il morale e la fortuna di <value=enchant> per <value=duration> turni.

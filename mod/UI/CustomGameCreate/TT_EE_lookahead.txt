@@ -1,0 +1,1 @@
+﻿Consente di regolare la profondità di previsione delle mosse dell'IA. "Eroica" è l'impostazione "più intelligente", ma migliora poco e può rallentare tantissimo le mappe di grandi dimensioni. Regolalo se i turni richiedono molto tempo. Per le mappe XL non è consigliabile andare oltre il livello "Dura".

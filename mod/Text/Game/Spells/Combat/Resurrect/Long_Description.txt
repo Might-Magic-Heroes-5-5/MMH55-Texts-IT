@@ -1,0 +1,1 @@
+﻿Riporta in vita le unità amiche selezionate. Ogni utilizzo di questo incantesimo diminuirà i punti ferita del gruppo bersaglio, a meno che l'incantatore non abbia una grande quantità di potere magico.

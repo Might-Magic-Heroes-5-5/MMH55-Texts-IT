@@ -1,0 +1,1 @@
+﻿<color_default>-<value=evasion>% di danni a distanza subiti

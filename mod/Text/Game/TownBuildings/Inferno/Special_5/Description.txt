@@ -1,0 +1,2 @@
+﻿Concede a tutti gli eroi Inferno +2500 esperienza (cumulativa con più città) e consente di sacrificare unità in questo edificio in cambio di esperienza extra.
+<br><br><color=0099FF>Governance<color_default><br>Concede al Governatore di questa città un bonus di Attacco di +2.

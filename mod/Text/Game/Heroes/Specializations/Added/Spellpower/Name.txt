@@ -1,0 +1,1 @@
+﻿Classe: Evocatore<br>Specializzazione: Professore<br><br><body_bright>Il Potere magico dell'eroe aumenta di +1 ogni 6 livelli.<br><color_default>Inizia con l'Illuminazione di base.

@@ -1,0 +1,4 @@
+﻿I campi di addestramento per potenziare le creature sono stati chiusi definitivamente, ma il Quartiermastro è comunque disposto a darti un addestramento al combattimento avanzato.
+ 
+OK = +2 Attacco
+Annulla = +2 Difesa

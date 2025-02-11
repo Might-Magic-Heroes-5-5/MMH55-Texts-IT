@@ -1,0 +1,1 @@
+﻿Se viene creata una mappa con le isole, viene utilizzata una dimensione della mappa maggiore rispetto all'indicazione del modello, altrimenti le isole potrebbero diventare troppo piccole.

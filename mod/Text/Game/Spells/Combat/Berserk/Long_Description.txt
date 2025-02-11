@@ -1,0 +1,1 @@
+﻿Porta alla pazzia le unità selezionate. Esse considereranno tutte le altre unità e le macchine da guerra come nemici e attaccheranno i più vicini con rabbia raddoppiata. I bersagli saranno in preda al panico e non reagiranno.<br><color_default>L'incantesimo non funziona su non-morti, unità meccaniche ed elementali.

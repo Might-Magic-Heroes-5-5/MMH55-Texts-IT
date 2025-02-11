@@ -1,0 +1,1 @@
+﻿Esploratore: i Punti movimento dell'eroe aumentano dell'1% per ogni due livelli dell'eroe. L'eroe guadagna inoltre +250 punti esperienza dopo ogni battaglia.

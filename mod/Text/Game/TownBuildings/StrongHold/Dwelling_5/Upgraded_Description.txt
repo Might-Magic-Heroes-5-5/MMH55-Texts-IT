@@ -1,0 +1,2 @@
+﻿<color_default>Potenziamento della Stanza dell'Ira.<br>
+<color_bright>La Stanza della Rabbia permette di reclutare i Carnefici e i Capibanda.

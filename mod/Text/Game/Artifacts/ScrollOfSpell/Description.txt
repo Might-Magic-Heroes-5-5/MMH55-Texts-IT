@@ -1,0 +1,3 @@
+﻿+2 Conoscenza<br>
+Concede l'incantesimo <value=spell_name>.
+<br><color_default>I Capoguerra non possono lanciare l'incantesimo ma ricevono il bonus di Conoscenza.

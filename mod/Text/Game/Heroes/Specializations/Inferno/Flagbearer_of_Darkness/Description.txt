@@ -1,0 +1,1 @@
+﻿Prescelto del Caos: la Fortuna di tutte le unità dell'eroe aumenta di 1 all'inizio di ogni battaglia e al livello 20 l'eroe riceve +1 Fortuna aggiuntivo in modo permanente. Inoltre, gli eroi nemici non possono usare l'abilità Tattica in combattimento.

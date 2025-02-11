@@ -1,0 +1,1 @@
+﻿Comandante Centauro: i Centauri, Centauri nomadi e Centauri incursori nell'esercito dell'eroe ottengono +1 Attacco e Difesa per ogni due livelli dell'eroe, a partire dal primo livello. Inoltre ottengono +0,25% alla loro Iniziativa iniziale per ogni livello dell'eroe.

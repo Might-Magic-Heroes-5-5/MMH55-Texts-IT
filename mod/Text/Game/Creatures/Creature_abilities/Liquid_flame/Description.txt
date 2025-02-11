@@ -1,0 +1,1 @@
+﻿Durante un attacco, questa unità infligge il danno totale non solo al bersaglio ma anche a qualsiasi altra unità nemica posizionata direttamente dietro di essa e rilascia un muro di fuoco nelle due caselle nella direzione dell'attacco. Il muro di fuoco infligge un ammontare di danni da fuoco pari alla dimensione del gruppo*10 a tutte le unità (amiche o nemiche) per 2 turni.

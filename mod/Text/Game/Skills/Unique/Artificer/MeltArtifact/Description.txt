@@ -1,0 +1,2 @@
+﻿L'eroe costruisce un artefatto della bacchetta per uso personale e lo aggiunge al suo inventario. All'eroe viene anche concessa la capacità di fondere un artefatto equipaggiato da un'unità amica per usare l'energia magica che contiene per curarla e farla risorgere in combattimento.<br>
+<color_default>Il numero di punti ferita guariti è uguale a 20*(livello dell'eroe)*(1+x), dove x è il numero di effetti realizzati nell'artefatto disciolto. L'eroe spende il 33% del suo turno per fondere l'artefatto. È possibile realizzare una sola bacchetta per eroe.

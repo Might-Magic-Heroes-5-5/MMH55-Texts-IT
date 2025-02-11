@@ -1,0 +1,1 @@
+﻿Conferisce all'eroe in visita +500 punti movimento per un giorno e +250 punti movimento fino alla fine della settimana.

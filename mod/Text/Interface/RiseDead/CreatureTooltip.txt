@@ -1,0 +1,1 @@
+﻿<h4>Costo per risvegliare questa unità: <body_bright><value=needed_energy> punti<h4> di Energia Oscura.

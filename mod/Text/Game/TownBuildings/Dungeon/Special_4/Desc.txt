@@ -1,0 +1,1 @@
+﻿Vende artefatti e aumenta leggermente le entrate giornaliere in Oro per ogni artefatto acquistato, l'aumento è pari a 25, 50 o 100 rispettivamente per gli artefatti minori, maggiori e reliquie.

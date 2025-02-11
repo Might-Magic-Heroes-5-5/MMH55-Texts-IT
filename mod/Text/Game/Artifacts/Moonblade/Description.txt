@@ -1,0 +1,2 @@
+﻿+5 Attacco<br><br><color=orange>
+Manticore<color_default><br>Sacrifica questo artefatto in un tempio ed evocherà una pila di Manticore. La dimensione della pila è pari a 2*numero di settimane trascorse.

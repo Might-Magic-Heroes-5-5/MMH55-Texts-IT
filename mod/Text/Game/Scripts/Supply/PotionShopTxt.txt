@@ -1,0 +1,1 @@
+﻿Vende pozioni di mana e movimento e consente di scambiare risorse a un prezzo ridotto.

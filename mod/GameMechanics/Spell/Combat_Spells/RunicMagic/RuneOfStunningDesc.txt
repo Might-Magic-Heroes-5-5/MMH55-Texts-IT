@@ -1,0 +1,1 @@
+﻿È possibile che un attacco normale dell'unità stordisca il nemico. Se lo stordimento fallisce, la runa rimarrà attiva finché non avrà successo. L'effetto è lo stesso dell'abilità Colpo ma funziona anche dalla distanza ed è influenzato dall'abilità Colpo di fortuna.

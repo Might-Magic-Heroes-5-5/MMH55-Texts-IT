@@ -1,0 +1,1 @@
+﻿<color=yellow>Il tuo Potere magico aumenta di +<value=param> in modo permanente.

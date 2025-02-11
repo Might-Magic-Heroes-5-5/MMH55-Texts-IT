@@ -1,0 +1,1 @@
+﻿L'incantesimo runico <value=spell> è stato imparato.

@@ -1,0 +1,1 @@
+﻿Attaccante rapido: le unità nell'esercito dell'eroe hanno un bonus del +0,5% per livello dell'eroe alla loro Iniziativa all'inizio del combattimento.

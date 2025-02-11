@@ -1,0 +1,3 @@
+﻿+2 Attacco<br>
++2 Mana dopo ogni battaglia<br><br>
+Fornisce agli eroi nani <value=spell_name>.

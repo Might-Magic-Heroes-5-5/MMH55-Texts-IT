@@ -1,0 +1,1 @@
+﻿<color=yellow>Alcuni rifugiati che si sono nascosti qui hanno deciso di unirsi alla tua causa! (+<value=num> <value=upgtype>)

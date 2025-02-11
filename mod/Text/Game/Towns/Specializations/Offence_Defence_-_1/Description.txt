@@ -1,0 +1,1 @@
+﻿Tutti i nemici che attaccano questa città subiscono una penalità di -1 Attacco e Difesa

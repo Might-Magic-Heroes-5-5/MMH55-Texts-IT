@@ -1,0 +1,1 @@
+﻿Salute del cristallo:<value=health><br>Danno alla distruzione: <value=damage>

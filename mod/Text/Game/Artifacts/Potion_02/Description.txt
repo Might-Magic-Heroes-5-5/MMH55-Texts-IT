@@ -1,0 +1,1 @@
+﻿Concede all'eroe 2500 punti movimento aggiuntivi il giorno successivo (dopo che l'eroe li avrà esauriti, verranno ripristinati a 2500).<br><br><color=blue>Consumabile<color_default><br>La pozione scomparirà dopo l'uso, tienila nello zaino finché non sarà necessaria.

@@ -1,0 +1,1 @@
+﻿<color=yellow>È stato raggiunto il limite di conversione per questa fazione.

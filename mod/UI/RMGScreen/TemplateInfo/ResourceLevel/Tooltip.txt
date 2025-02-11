@@ -1,0 +1,1 @@
+﻿Questo regola la quantità di pile di risorse gratuite nelle aree di partenza dei giocatori.

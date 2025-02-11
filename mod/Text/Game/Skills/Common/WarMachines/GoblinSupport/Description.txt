@@ -1,0 +1,1 @@
+﻿Abilità di avventura: se c'è un Carro di Munizioni nell'esercito dell'eroe, ci sarà 1 Goblin che si unirà al suo esercito ogni giorno e l'eroe guadagna 0,5 Oro al giorno per ogni Folletto del suo esercito.<br><color_default> I Goblin potenziati si uniranno solo se sono presenti nell'esercito; Goblin Sabotatori, se sono presenti entrambi i potenziamenti.

@@ -1,0 +1,1 @@
+﻿Indebolisce l'offensiva di tutte le unità nemiche di un ammontare che dipende dal potere magico. Se i bersagli sono sotto l'influenza dell'incantesimo Potenza del giusto, entrambi gli effetti rimarranno attivi e la differenza di forza dei lanciatori determinerà il risultato.

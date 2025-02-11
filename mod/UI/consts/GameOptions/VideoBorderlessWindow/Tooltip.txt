@@ -1,0 +1,1 @@
+﻿Rimuove il bordo dalla finestra del gioco in modalità finestra.

@@ -1,0 +1,1 @@
+﻿Classe: Cavaliere della Morte<br>Specializzazione: Principessa dei Vampiri<br><br><body_bright>Tutti i Vampiri, Signori dei Vampiri e Principi dei Vampiri nell'esercito dell'eroe ottengono +1 Attacco e Difesa per ogni due livelli dell'eroe, a partire dal primo livello.<br><color_default>Inizia con l'Attacco avanzato.

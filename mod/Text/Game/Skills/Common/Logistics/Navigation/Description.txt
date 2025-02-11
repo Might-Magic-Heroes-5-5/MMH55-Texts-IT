@@ -1,0 +1,1 @@
+﻿Abilità di avventura: l'eroe riceve rinforzi nativi di livello 4 anziché di livello 3 secondo la stessa formula di Logistica esperta. Inoltre la velocità di movimento dell'eroe sul mare è aumentata del 25%.

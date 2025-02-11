@@ -1,0 +1,1 @@
+﻿Classe: Mago oscuro<br>Specializzazione: Danzatore dell'Ombra<br><br><body_bright>L'esercito dell'eroe subisce meno danni dagli attacchi a distanza, la riduzione del danno a distanza è del 15% + 0,5% per livello dell'eroe.<br><color_default>Inizia con la Magia della distruzione di base.

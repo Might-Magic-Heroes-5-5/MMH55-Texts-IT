@@ -1,0 +1,1 @@
+﻿Circonda il bersaglio con uno scudo di energia magica che in parte assorbe il danno inflitto a tale bersaglio finché non viene distrutto. L'efficacia dipende dal potere magico e la completa invulnerabilità può essere raggiunta se l'incantatore ne possiede 60.

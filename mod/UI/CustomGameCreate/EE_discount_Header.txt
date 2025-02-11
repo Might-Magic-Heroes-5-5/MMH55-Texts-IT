@@ -1,0 +1,1 @@
+﻿<value_name>Acquisti scontati IA: <value_value><value=EE_discount> giorni

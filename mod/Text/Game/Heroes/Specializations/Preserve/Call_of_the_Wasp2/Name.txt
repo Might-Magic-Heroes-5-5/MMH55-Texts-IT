@@ -1,0 +1,1 @@
+﻿Classe: Negromante<br>Specializzazione: Regina dello sciame<br><br><body_bright>L'incantesimo Sciame di vespe è più efficace e l'eroe imparerà l'incantesimo Evoca Alveare al livello 15. Il danno aumenta del 5% per livello dell'eroe. La riduzione base del valore ATB viene moltiplicata per (1+0,02*livello dell'eroe/3).<br><color_default>Inizia con la Magia dell'evocazione di base.

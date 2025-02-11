@@ -1,0 +1,1 @@
+﻿Mostra le partite Duello che sono piene ma possono essere osservate.

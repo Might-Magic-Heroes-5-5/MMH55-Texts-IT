@@ -1,0 +1,3 @@
+﻿+1 Difesa<br>
++1250 Esperienza<br><br>
+<color=7F38EC>Libro delle abilità<color_default><br>L'eroe ha bisogno di un po' di tempo per studiare questo oggetto e acquisire in modo permanente la conoscenza che contiene. All'inizio della prossima settimana l'oggetto scompare dallo zaino e il bonus viene applicato in modo permanente.

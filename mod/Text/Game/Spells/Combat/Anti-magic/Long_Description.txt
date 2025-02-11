@@ -1,0 +1,1 @@
+﻿Annulla gli effetti magici positivi e negativi del bersaglio e lo rende immune agli effetti magici successivi. Può essere lanciato sia su unità amiche che nemiche.

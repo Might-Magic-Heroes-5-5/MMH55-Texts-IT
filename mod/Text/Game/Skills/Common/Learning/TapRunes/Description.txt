@@ -1,0 +1,1 @@
+﻿L'eroe impara la Runa dell'Etereità e ogni volta che si usa una qualsiasi runa l'eroe Ripristina un po' di Mana, pari a Conoscenza/2 (arrotondato per difetto).

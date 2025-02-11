@@ -1,0 +1,1 @@
+﻿L'Arcidemone può selezionare qualsiasi gruppo di unità in un raggio di 7 caselle, indipendentemente da chi le possiede, e teletrasportarlo sulla casella non occupata più vicina possibile a lui (abilità da attivare).

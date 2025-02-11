@@ -1,0 +1,1 @@
+﻿Una vecchia strega ti dà il benvenuto ed è interessata alla tua ricerca, pensa che tu sappia già molto ma in cambio di <value=gold> è disposta a insegnarti <value=skill> <value=maestry>. Accetti?

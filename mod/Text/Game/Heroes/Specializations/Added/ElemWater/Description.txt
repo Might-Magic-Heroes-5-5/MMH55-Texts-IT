@@ -1,0 +1,1 @@
+﻿Prescelto di Shalassa: l'eroe avrà +1 Morale e Fortuna finché ci saranno Elementali dell'Acqua nel suo esercito e l'eroe avrà già 10 Cristalli sangue del drago al livello 1 allo scopo di evocarli (è possibile ottenere più Cristalli dalle abilità in Magia della Frantumazione e Magia dell'Evocazione). Non funziona se l'eroe viene assunto da un'altra fazione.

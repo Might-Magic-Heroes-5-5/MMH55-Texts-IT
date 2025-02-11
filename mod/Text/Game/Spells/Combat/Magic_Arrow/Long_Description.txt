@@ -1,0 +1,1 @@
+﻿Scaglia una freccia magica che infligge danni non elementali all'unità nemica selezionata.

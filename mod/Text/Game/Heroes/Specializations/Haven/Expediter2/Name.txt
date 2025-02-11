@@ -1,0 +1,1 @@
+﻿Classe: Cavaliere<br>Specializzazione: Cavaliere del vento<br><br><body_bright>Il Potere magico dell'eroe aumenta di +1 ogni 7 livelli e l'effetto dell'incantesimo Rapidità aumenta di 0,15% per ogni livello dell'eroe.<br><color_default>Inizia con la Magia della luce di base.

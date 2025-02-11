@@ -1,0 +1,2 @@
+﻿Ripristina completamente il mana dell'eroe il giorno successivo se equipaggiato.<br><br>
+<color=blue>Consumabile<color_default><br>La pozione scomparirà dopo l'uso, tienila nello zaino finché non sarà necessaria.

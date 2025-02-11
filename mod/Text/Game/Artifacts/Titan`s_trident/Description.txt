@@ -1,0 +1,3 @@
+﻿+6 Potere magico<br>
++15% agli incantesimi del fulmine<br><color_default>
+L'aumento del danno influenza Fulmine e Fulmini a catena.

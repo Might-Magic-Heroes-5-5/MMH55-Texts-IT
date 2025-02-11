@@ -1,0 +1,1 @@
+﻿Copia l'unità amica selezionata (è possibile effettuare una sola copia). La copia non può lanciare incantesimi o usare abilità e scompare non appena riceve danni (l'abilità Incorporea dà alla copia il 50% di possibilità di evitare qualsiasi danno). Il livello massimo che può essere copiato è 1,2,3 o 4 a seconda del livello di maestria e aumenta di 0.1 per potere magico.

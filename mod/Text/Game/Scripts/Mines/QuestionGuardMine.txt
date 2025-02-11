@@ -1,0 +1,3 @@
+﻿Non hai ancora sorvegliato questa miniera con le unità, vorresti proteggerla in cambio di una somma una tantum di <value=num> oro?
+
+(Le unità stazionate in questa miniera aumenteranno automaticamente di numero, ma è impossibile interagire con la guarnigione della miniera. Se la miniera viene attaccata, le guardie saranno controllate dal proprietario sulla mappa di combattimento.)

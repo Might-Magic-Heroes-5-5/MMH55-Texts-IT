@@ -1,0 +1,1 @@
+﻿<color=green>Mentre la tua gemma si dissolve, vengono evocati <value=num> <value=upgtype>!

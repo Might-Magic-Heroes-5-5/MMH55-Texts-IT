@@ -1,0 +1,1 @@
+﻿Resuscita permanentemente le unità non morte e elementali, mentre le altre unità possono essere resuscitate solo per la durata della battaglia. Non funziona sulle creature meccaniche.

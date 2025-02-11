@@ -1,0 +1,1 @@
+﻿L'eroe ottiene +2 Potere magico e un'abilità speciale di combattimento che infligge danni a tutte le unità evocate o invocate. Il danno è pari a 120 + (livello di eroe * 40). L'abilità costa 20 mana e ripristina il valore ATB dell'eroe a 0,24 dopo l'uso.

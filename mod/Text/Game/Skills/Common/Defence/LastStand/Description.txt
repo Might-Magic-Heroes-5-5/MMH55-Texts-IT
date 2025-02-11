@@ -1,0 +1,1 @@
+﻿L'eroe ottiene +2 Difesa, apprende l'incantesimo Rigenerazione e l'esercito dell'eroe combatterà fino alla fine. Se il nemico uccide un intero gruppo, l'ultima unità sopravviverà all'attacco con 1 Punto ferita. Affinché questa abilità si inneschi, il gruppo deve contenere almeno 5 unità quando viene inferto l'ultimo colpo.

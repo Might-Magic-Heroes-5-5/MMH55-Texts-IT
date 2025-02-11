@@ -1,0 +1,1 @@
+﻿Evoca una barca. L'eroe dev'essere su di una spiaggia e deve esserci una barca libera nelle vicinanze perché l'incantesimo abbia successo.<color_default><br>Nessuna capacità magica richiesta.

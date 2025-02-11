@@ -1,0 +1,1 @@
+﻿Specializzazione mistica che permette all'eroe di guadagnare <value=extra_mana> mana in più rispetto al massimo normale.

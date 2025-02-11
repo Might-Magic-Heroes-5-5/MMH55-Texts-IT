@@ -1,0 +1,1 @@
+﻿Consente all'eroe di destare parte delle unità viventi nemiche cadute.

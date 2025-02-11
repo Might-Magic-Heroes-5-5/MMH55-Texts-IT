@@ -1,0 +1,1 @@
+﻿Questa unità è più efficace nel combattimento corpo a corpo ma infligge solo la metà del danno negli attacchi a distanza (tieni premuto il pulsante Ctrl per ingaggiare i nemici in corpo a corpo).

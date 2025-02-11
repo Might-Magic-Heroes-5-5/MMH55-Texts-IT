@@ -1,0 +1,1 @@
+﻿L'eroe impara l'incantesimo Palla di fuoco e gli viene garantito un effetto dannoso per le corazze agli incantesimi Palla di fuoco, Muro di fuoco e Armageddon.<br><color_default>Le unità colpite da questi incantesimi riceveranno una penalità aggiuntiva di -50% Difesa. La penalità di Difesa dura 1 turno e non è cumulativa.

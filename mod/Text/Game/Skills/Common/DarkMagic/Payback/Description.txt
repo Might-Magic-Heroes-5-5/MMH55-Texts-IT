@@ -1,0 +1,1 @@
+﻿Aumenta la rigenerazione del Mana dell'eroe di +5 e l'eroe non sprecherà mai mana in combattimento. L'eroe recupera tutto il mana speso per gli incantesimi completamente resistiti e il suo valore ATB si reimposta su 0,2/0,3/0,4/0,5 a seconda della maestria della capacità Stregoneria dopo un lancio fallito. Non funziona per gli incantesimi parzialmente resistiti.

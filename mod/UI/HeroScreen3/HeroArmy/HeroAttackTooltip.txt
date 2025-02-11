@@ -1,0 +1,1 @@
+﻿Aumenta il danno fisico che le unità dell'eroe provocano in combattimento.

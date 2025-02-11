@@ -1,0 +1,1 @@
+﻿Infligge danni del fulmine ingenti a numerose unità adiacenti (fino a 4) a partire da quella selezionata. Ogni creatura nella sequenza subisce metà dei danni subiti da quella precedente (la catena può colpire anche le proprie unità).

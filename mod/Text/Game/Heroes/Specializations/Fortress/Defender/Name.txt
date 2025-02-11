@@ -1,0 +1,1 @@
+﻿Classe: Mago delle rune<br>Specializzazione: Protettore<br><br><body_bright>Tutti i Difensori, le Scudi e Guardie di montagna nell'esercito dell'eroe ottengono +1 Attacco e Difesa ogni due livelli e +1 ai loro Punti ferita ogni 10 livelli dell'eroe.<br><color_default>Inizia con le Macchine da guerra di base.

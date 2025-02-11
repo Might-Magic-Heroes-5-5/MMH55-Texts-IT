@@ -1,0 +1,1 @@
+﻿Evoca unità dalla città più vicina all'eroe al prezzo di 1 mana per unità.<color_default><br>Questo incantesimo richiede un eroe di livello 5 per essere appreso. Nessuna capacità magica richiesta.

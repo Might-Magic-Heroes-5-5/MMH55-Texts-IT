@@ -1,0 +1,1 @@
+﻿Fa agire meno frequentemente in combattimento le unità nemiche selezionate. Se il bersaglio è sotto l'influenza dell'incantesimo Velocità, entrambi gli effetti rimarranno attivi e la differenza di forza dei lanciatori determinerà il risultato.

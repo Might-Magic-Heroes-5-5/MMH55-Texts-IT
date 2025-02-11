@@ -1,0 +1,1 @@
+﻿Signore degli Zombi: tutti gli Zombi, Zombi appestati e Zombi marcescenti nell'esercito dell'eroe agiranno sempre immediatamente dopo che l'eroe ha svolto il suo turno, aumentando di fatto la loro Iniziativa allo stesso livello dell'eroe (10) e rendendoli immuni alla Lentezza.

@@ -1,0 +1,7 @@
+﻿Ti piacerebbe inviare alcuni esploratori (unità native di livello 1) nell'edificio per indagare sulla forza delle unità a guardia dei tesori? La possibilità che un esploratore non sopravviva a questa missione è <value=chance>%
+-------------------------------------------------- -----------------------
+
+OK = Esplora
+Annulla = Attacca
+
+-------------------------------------------------- -----------------------

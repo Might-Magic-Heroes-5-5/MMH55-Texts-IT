@@ -1,0 +1,2 @@
+﻿Tutti i Golem sotto il comando dell'eroe hanno la loro Velocità aumentata di 2. I Golem di ferro e acciaio hanno anche l'Iniziativa aumentata di 2. Inoltre, al livello 10, un Golem di ferro, un Golem d'acciaio o un Golem 
+Magnetico si uniranno all'esercito dell'eroe ogni giorno, a condizione che il l'eroe abbia già alcune di queste creature nel suo esercito.

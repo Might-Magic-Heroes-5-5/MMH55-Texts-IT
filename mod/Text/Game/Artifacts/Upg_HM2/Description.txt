@@ -1,0 +1,4 @@
+﻿+12 Conoscenza<br>
++L^4 Esperienza al primo equipaggiamento<br>
+Conferisce alle unità dell'esercito dell'eroe l'immunità all'ipnotizzazione<br><br><color_default>
+(L=livello dell'eroe, ad esempio 810000 esperienza al livello 30)

@@ -1,0 +1,1 @@
+﻿Evoca un pugno magico che infligge danni fisici non elementali all'unità nemica selezionata. Questo incantesimo ignora la resistenza magica e la protezione dalla magia.

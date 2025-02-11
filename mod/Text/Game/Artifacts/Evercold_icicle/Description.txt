@@ -1,0 +1,3 @@
+﻿+15% agli incantesimi del freddo<br>
++2 Mana al giorno se equipaggiato senza interruzioni<br><color_default>
+L'aumento del danno influenza Dardo di ghiaccio, Cerchio dell'inverno e Gelo Profondo.

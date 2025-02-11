@@ -1,0 +1,1 @@
+﻿Pergamena magica dell'incantesimo <value=spell_name>

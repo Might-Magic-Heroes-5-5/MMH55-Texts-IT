@@ -1,0 +1,1 @@
+﻿L'eroe ottiene +1 Difesa e aumenta un attributo primario casuale di 1 ogni 6 livelli, inclusi i livelli già guadagnati. Inoltre, l'eroe guadagna esperienza il 5% più velocemente.

@@ -1,0 +1,1 @@
+﻿Trasporta l'eroe e il suo esercito alla città amica più vicina.<color_default><br>Questo incantesimo richiede un eroe di livello 10 per essere appreso. Nessuna capacità magica richiesta.

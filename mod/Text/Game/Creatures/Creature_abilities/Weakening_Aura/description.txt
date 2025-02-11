@@ -1,0 +1,1 @@
+﻿-4 Attacco e Difesa e -2 Morale a tutte le unità vicine, indipendentemente dalla fazione. I non-morti sono immuni a questo effetto

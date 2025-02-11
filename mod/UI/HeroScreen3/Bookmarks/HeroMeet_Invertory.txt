@@ -1,0 +1,1 @@
+﻿Inventario<hotkey=hero_equipment>

@@ -1,0 +1,1 @@
+﻿Infligge danno magico alle unità selezionate che dipende dal numero di nemici uccisi dalla creatura selezionata dall'inizio del combattimento.

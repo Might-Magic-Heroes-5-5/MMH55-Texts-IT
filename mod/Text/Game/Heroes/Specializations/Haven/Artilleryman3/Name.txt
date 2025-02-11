@@ -1,0 +1,1 @@
+﻿Classe: Capoguerra<br>Specializzazione: Ingegnere d'assedio<br><br><body_bright>La Balista riceve +1 Attacco per ogni livello dell'eroe. La probabilità che la Catapulta colpisca il muro aumenta del 2% per ogni livello dell'eroe.<br><color_default>Inizia con l'abilità Balista.

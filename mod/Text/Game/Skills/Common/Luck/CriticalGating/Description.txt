@@ -1,0 +1,1 @@
+﻿L'eroe ora può invocare Diavoli, Arcidiavoli e Arcidemoni e c'è la possibilità che qualsiasi gruppo invocato evochi il 10% in più di rinforzi. La probabilità è pari alla Fortuna dell'eroe * 20% e zero se la Fortuna non è positiva.

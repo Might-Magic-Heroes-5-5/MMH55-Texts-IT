@@ -1,0 +1,1 @@
+﻿L'eroe ottiene +2 Difesa e tutte le unità non morte sotto il controllo dell'eroe vengono potenziate con incantesimi di ghiaccio che restituiscono all'attaccante il 10% di tutti i danni ravvicinati subiti in danno di ghiaccio.

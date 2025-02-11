@@ -1,0 +1,1 @@
+﻿Danno massimo ridotto del <value=enchant>% verso il minimo per <value=duration> turni.

@@ -1,0 +1,2 @@
+﻿<color_default>Potenziamento del Mercato.<br> 
+<color_bright>Il Silo fornisce +1 Mercurio ogni giorno.

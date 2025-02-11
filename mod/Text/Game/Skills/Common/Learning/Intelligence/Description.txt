@@ -1,0 +1,1 @@
+﻿+40% di mana in più rispetto al tetto massimo. Il tasso di rigenerazione del mana non è aumentato.

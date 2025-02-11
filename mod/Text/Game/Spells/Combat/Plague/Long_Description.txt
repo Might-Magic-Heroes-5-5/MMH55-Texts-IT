@@ -1,0 +1,1 @@
+﻿Infligge una piaga sul bersaglio nemico cosi che ogni qualvolta questo sta per intraprendere qualsiasi azione, riceve un danno di terra.<br><color_default>L'incantesimo non funziona sui non-morti, sugli elementali e sulle unità meccaniche.

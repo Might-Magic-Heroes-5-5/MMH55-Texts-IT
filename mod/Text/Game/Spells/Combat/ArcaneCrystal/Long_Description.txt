@@ -1,0 +1,1 @@
+﻿Crea un cristallo nel punto selezionato sul campo di battaglia, impedisce ai tiratori adiacenti di sparare e ostacola il movimento fino alla fine del combattimento o finché il cristallo non viene attaccato e distrutto.

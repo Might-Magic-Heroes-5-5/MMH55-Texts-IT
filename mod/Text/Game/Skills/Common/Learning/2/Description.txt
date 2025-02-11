@@ -1,0 +1,1 @@
+﻿L'eroe guadagna +2 Conoscenza e aumenta un attributo primario casuale di 1 ogni 5 livelli, inclusi i livelli già guadagnati. Inoltre, l'eroe guadagna esperienza il 10% più velocemente.

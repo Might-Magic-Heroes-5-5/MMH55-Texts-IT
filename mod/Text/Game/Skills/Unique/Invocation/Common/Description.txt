@@ -1,0 +1,1 @@
+﻿Consente all'eroe di costruire e quindi far detonare Catene elementali basate su elementi comuni tra le unità.

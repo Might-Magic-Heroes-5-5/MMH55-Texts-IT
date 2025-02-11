@@ -1,0 +1,4 @@
+﻿Il proprietario della Fabbrica di Macchine da Guerra ti offre un contratto di fornitura, in cambio di <value=num> Oro ti fornirà una quantità casuale di (3-7) Legno ogni settimana.
+
+OK = Firma il contratto (<value=num> Oro)
+Annulla = Controlla il suo inventario

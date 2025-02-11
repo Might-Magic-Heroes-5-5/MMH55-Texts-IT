@@ -1,0 +1,6 @@
+﻿<color=red>Modalità Incubo<color_default><br>
+* Gli eroi IA non possono essere saccheggiati.
+* Tutti i giocatori IA si uniranno contro il giocatore umano, il tempo di calcolo dell'IA è ridotto sulle mappe con più giocatori IA.
+* Se sono presenti più giocatori umani, si alleeranno contro i giocatori IA.
+* Gli eroi IA non fuggono mai dal combattimento e combattono fino alla morte.
+* I siti di battaglia hanno una crescita del +10%.

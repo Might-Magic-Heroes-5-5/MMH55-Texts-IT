@@ -1,0 +1,8 @@
+﻿<color=green>Modalità Casual<br><color_default>
+* L'IA non riceve unità o oro extra per ridurre le perdite nel "Combattimento rapido".
+* Le risorse iniziali dell'IA sono ridotte di 10000/5/10 a tutti i livelli di difficoltà.
+* I giocatori IA non sono alleati ma la loro reciproca aggressività diminuisce alle difficoltà più elevate.
+* Gli eroi IA possono fuggire.
+* I siti di battaglie hanno una crescita del -10%.
+<br><color=white>Attenzione!<br><color_default>
+* Non utilizzare "riavvia missione" dopo che la mappa è stata caricata altrimenti l'IA tornerà a NON Casual, a volte anche a una delle modalità molto difficili!

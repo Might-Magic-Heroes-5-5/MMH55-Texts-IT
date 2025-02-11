@@ -1,0 +1,1 @@
+﻿Una volta per combattimento, questa unità può curare e riportare in vita se stessa e un gruppo di Uomini Albero (abilità da attivare). Il gruppo bersaglio riceve 5 punti ferita per Spirito e in cambio la pila di Spiriti viene curata di 30 punti ferita per Uomini Albero.

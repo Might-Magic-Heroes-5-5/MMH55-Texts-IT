@@ -1,0 +1,1 @@
+﻿Una volta per combattimento, l'unità può attaccare il nemico selezionato infliggendogli il suo normale danno senza penalità di portata e sottoponendolo a "Marchio del Fuoco" (abilità da attivare).

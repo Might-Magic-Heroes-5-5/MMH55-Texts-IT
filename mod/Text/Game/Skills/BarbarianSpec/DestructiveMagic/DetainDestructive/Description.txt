@@ -1,0 +1,1 @@
+﻿La Conoscenza dell'eroe aumenta di 2 e se un nemico lancia un incantesimo di Distruzione, il suo turno successivo verrà ritardato del 15% rispetto alla norma.

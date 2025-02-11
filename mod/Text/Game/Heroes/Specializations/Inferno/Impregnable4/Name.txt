@@ -1,0 +1,1 @@
+﻿Classe: Guardiano<br>Specializzazione: Spezzaincantesimi<br><br><body_bright>Tutte le unità nell'esercito dell'eroe ottengono il 5% di Resistenza magica e + 1% per livello dell'eroe.<br><color_default>Inizia con l'abilità Protezione.

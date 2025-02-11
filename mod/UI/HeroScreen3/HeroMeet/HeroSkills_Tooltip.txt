@@ -1,0 +1,1 @@
+﻿Le capacità dell'eroe, da quelle disponibili all'inizio a quelle apprese durante il gioco. Condizionano le abilità disponibili.

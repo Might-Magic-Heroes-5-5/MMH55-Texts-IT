@@ -1,0 +1,3 @@
+﻿+5 Attacco e -1 Difesa alle razze "buone"<br>
++5 Difesa e -1 Attacco alle razze "cattive"<br><color_default>
+La Gilda dei Maghi rivela l'allineamento. Roccaforte è considerata "cattiva".

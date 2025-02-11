@@ -1,0 +1,3 @@
+﻿<color_default>Potenziamento del Tempio delle Rune livello 1.<br>
+<color_bright>Insegna rune magiche del terzo e del quarto Cerchio e aumenta il Potere magico di tutti gli eroi nani con la capacità Scienza delle rune di +2 (non cumulativo con più città e richiede la visita della città)<br><br>
+<color=0099FF>Governance<color_default><br>Concede al Governatore di questa città un bonus di Conoscenza di +2.

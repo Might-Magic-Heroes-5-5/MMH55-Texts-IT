@@ -1,0 +1,1 @@
+﻿Durante l'attacco, questa unità danneggia non solo il bersaglio ma anche qualsiasi altra unità posizionata direttamente dietro di essa. I bersagli secondari subiscono il 50% di danni in meno.

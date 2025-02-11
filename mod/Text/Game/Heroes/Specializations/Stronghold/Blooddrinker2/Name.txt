@@ -1,0 +1,1 @@
+﻿Classe: Rinnegato<br>Specializzazione: Fanatico<br><br><body_bright>L'eroe ottiene un bonus di Attacco di +1 e ogni unità nemica uccisa (considerate anche le unità evocate) aumenta l'Attacco di tutte le unità del suo esercito di +1 per ogni 9 livelli dell'eroe.<br><color_default>L'eroe inizia con l'abilità Arti marziali.

@@ -1,0 +1,1 @@
+﻿Se nell'esercito dell'eroe c'è un'unità con questa caratteristica, l'eroe avrà bisogno del 5% in meno di mana per lanciare incantesimi. La riduzione del costo viene arrotondata per eccesso risultando sempre in una riduzione di almeno 1 mana.

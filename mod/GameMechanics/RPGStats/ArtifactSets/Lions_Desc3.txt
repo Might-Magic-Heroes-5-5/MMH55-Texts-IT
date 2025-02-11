@@ -1,0 +1,1 @@
+﻿Ogni volta che si attiva l'effetto Morale di una delle unità, l'eroe si muove il 5% più velocemente sulla barra dell'Iniziativa (se l'unità ha un effetto Morale negativo, l'eroe si sposterà indietro). Gli attacchi del Cavaliere (incluso il colpo di rappresaglia) diminuiscono il morale nemico di -2. La Difesa dei Paladini aumenta di +4.

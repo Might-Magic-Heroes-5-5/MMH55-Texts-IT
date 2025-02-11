@@ -1,0 +1,1 @@
+﻿Ogni sezione di Salute:<value=health><br>Tempo vita: <value=duration> turni.

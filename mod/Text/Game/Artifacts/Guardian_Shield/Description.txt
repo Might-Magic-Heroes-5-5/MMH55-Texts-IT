@@ -1,0 +1,7 @@
+﻿+8 Difea<br><br><color=purple>
+Armatura dell'Eroe Dimenticato<color_default><br>
++1 a tutti gli attributi primari (2/4)<br>
++2 a tutti gli attributi primari (4/4)<br>
+*Il bonus del set viene applicato dopo aver chiuso la schermata Inventario.<br><br><color=orange>
+Missione<color_default><br>
+Porta tutti e 4 i pezzi dell'Armatura dell'Eroe Dimenticato a un Mercante di Manufatti e ricevi una ricompensa unica.

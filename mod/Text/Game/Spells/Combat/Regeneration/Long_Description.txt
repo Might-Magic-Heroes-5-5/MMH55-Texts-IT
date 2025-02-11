@@ -1,0 +1,1 @@
+﻿L'unità selezionata guadagna Salute durante ogni volta che può agire. Non funziona su unità non-morte, elementali e meccaniche.

@@ -1,0 +1,4 @@
+﻿Il proprietario di questo edificio ti offre un contratto di fornitura in cambio di <value=num> Oro, se accetti il tuo regno riceverà tutte le risorse che produce automaticamente all'inizio di ogni settimana.
+
+OK = Firma il contratto (<value=num> Oro)
+Annulla = Effettua una sola visita.

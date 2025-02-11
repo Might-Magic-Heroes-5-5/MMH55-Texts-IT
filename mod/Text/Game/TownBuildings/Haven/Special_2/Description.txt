@@ -1,0 +1,2 @@
+﻿La Sala degli Eroi supporta l'abilità speciale Addestramento e permette di addestrare 13 unità aggiuntivi alla settimana.<br><br>
+<color=0099FF>Governance<color_default><br>Concede al Governatore di questa città un bonus di Attacco di +2.

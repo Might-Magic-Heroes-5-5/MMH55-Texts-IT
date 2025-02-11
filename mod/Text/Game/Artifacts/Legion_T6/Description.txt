@@ -1,0 +1,6 @@
+﻿+4 Difesa se equipaggiato<br><br>
+Rinforza l'esercito dell'eroe con unità native di livello 6 all'inizio di ogni settimana, a condizione che alcune siano già presenti. La quantità è pari alla Conoscenza/6 dell'eroe (o 1).
+<br><color=orange>Insegne della Legione<br><color_default>
+Offri tutte e 7 le Insegne della Legione presso un altare sacrificale per una ricompensa unica.
+<br><color=yellow>Zaino<color_default><br>
+I rinforzi si ottengono anche quando l'artefatto non è equipaggiato, ma non se è equipaggiata una Veste di livello superiore o nello zaino.

@@ -1,0 +1,5 @@
+﻿+2 Potere magico<br>
++2 Conoscenza<br>
+-50% alla quantità di elementali evocati dagli eroi nemici<br>
+-50% ai Punti Ferita dei nemici evocati: Alveare, Fenice e Barriera di Lame<br>
+Concede l'abilità Caccia.

@@ -1,0 +1,1 @@
+﻿L'eroe sarà in grado di vedere gli elementi delle unità nemiche così da poter lanciare incantesimi di Magia della distruzione che infliggono danno elementale aggiuntivo. Il danno aggiuntivo è +5% per ogni livello di maestria della Magia irresistibile e +5% per ogni costruzione dell'Altare degli Elementi.

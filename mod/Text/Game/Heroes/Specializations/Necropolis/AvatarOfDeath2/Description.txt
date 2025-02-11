@@ -1,0 +1,1 @@
+﻿Evocatore oscuro: l'eroe inizia con l'abilità "Evoca Drago Spettrale". Il drago evocato diventa più potente e costa più mana con ogni livello dell'eroe. Il Potere magico migliorerà anche il suo danno e la sua durata. Il Drago Spettrale ottiene le seguenti abilità con i livelli: Colpo che indebolisce (6), Prosciuga vita (12), Incorporeo (18), Immunità magica (24)

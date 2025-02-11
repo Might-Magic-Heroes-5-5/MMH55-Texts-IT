@@ -1,0 +1,1 @@
+﻿Il Contrattacco infligge il 50% di danni base in più, accumulando fino a triplicare i danni se vengono attivate le Arti marziali.

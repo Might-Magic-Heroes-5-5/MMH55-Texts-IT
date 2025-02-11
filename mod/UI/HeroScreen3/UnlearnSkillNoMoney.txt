@@ -1,0 +1,1 @@
+﻿Spiacente, ma non hai <value=price> ori per cancellare <value=skill_name> dalla tua memoria!

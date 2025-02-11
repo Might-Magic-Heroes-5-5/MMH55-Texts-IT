@@ -1,0 +1,1 @@
+﻿Le unità dell'eroe infliggono danno aggiuntivo ravvicinato e a distanza se il Morale è sopra lo zero (+3% per ogni punto Morale). Il bonus è limitato al 15%. Per gli eroi della Necropoli, l'abilità aumenta l'Attacco di 3.

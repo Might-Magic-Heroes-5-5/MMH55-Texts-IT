@@ -1,0 +1,1 @@
+﻿[Abilità da attivare]<br>Attacca il gruppo nemico selezionato uccidendo esattamente una sola unità e annullando tutti gli effetti magici presenti su di esso.

@@ -1,0 +1,1 @@
+﻿<color_default>+<value=attack> Attacco, +<value=defense> Difesa, +<value=health> Punti ferita

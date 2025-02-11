@@ -1,0 +1,1 @@
+﻿L'unità esegue un attacco aereo ritardato sulla casella selezionata e provoca il 50% di danni in più a qualsiasi unità si trovi in quella casella al momento, comprese quelle amiche. Dopo l'attacco, l'unità torna in un punto casuale del campo (abilità da attivare).

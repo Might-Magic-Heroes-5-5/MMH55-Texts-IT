@@ -1,0 +1,1 @@
+﻿Sacrificare qui le unità può incrementare la crescita di Vergini di Sangue e dei Minotauri. Le soglie per ottenere una crescita +1 sono 30HP, 90HP, 270HP, 810HP, 2430HP, 7290HP, 21870HP... (per i Minotauri iniziano da 90HP).

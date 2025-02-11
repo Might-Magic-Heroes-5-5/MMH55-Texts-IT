@@ -1,0 +1,8 @@
+﻿+4 Attacco<br>
++40% di Protezione dagli incantesimi del freddo<br><br><color=purple>
+Potere dei Draghi<color_default><br>
++2 a tutti gli attributi primari (4/8)<br>
++4 a tutti gli attributi primari (8/8)<br>
+*Il bonus del set viene applicato dopo aver chiuso la schermata Inventario.<br><br><color=orange>
+Missione<color_default><br>
+Offri tutti gli 8 pezzi del Potere dei Draghi a un Altare Sacrificale per una ricompensa unica.

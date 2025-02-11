@@ -1,0 +1,1 @@
+﻿Consente il controllo manuale delle Tende di Pronto soccorso e gli consente di resuscitare unità morte.<br><color_default>Ripristina le Tende di Pronto soccorso dopo la battaglia se queste vengono distrutte. I punti ferita della Tenda di Pronto soccorso vengono moltiplicati per 3.

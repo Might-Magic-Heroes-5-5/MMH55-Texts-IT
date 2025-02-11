@@ -1,0 +1,1 @@
+﻿Classe: Cavaliere<br>Specializzazione: Cavaliere degli scacchi<br><br><body_bright>L'eroe inizia con una conoscenza base di Attacco, Difesa e tutte le scuole di magia.

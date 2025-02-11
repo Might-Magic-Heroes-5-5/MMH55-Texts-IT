@@ -1,0 +1,1 @@
+﻿<color=yellow>Hai già decifrato questo obelisco, hai trovato <value=amount> su <value=total>!

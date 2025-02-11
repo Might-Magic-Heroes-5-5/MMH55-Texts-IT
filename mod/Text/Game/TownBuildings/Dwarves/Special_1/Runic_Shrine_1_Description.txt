@@ -1,0 +1,2 @@
+﻿Insegna rune magiche del primo e del secondo Cerchio e aumenta il Potere magico di tutti gli eroi nani con la capacità Scienza delle rune di +1 (non cumulativo con più città e richiede la visita della città)<br><br>
+<color=0099FF>Governance<color_default><br>Concede al Governatore di questa città un bonus di Conoscenza di +1.

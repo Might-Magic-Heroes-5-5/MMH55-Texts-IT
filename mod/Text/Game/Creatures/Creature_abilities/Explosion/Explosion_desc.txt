@@ -1,0 +1,1 @@
+﻿L'unità lancia l'incantesimo Palla di fuoco attorno a sé, danneggiando tutte le unità adiacenti ma non se stessa. Il danno inflitto dalla Palla di fuoco è pari agli accumuli di Potere magico * 24.

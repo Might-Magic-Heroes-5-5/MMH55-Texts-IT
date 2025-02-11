@@ -1,0 +1,1 @@
+﻿-1 Velocità a tutte le unità nemiche. Quelle che falliscono il controllo Morale ottengono inoltre una penalità di -20% Attacco e Difesa fino all'inizio del loro prossimo turno. I Cavalieri della Morte, i Maghi Fatui e i Negromanti hanno un aumento della potenza magica di +4.

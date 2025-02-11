@@ -1,0 +1,1 @@
+﻿Anticonformista: l'eroe inizia con +1 Attacco e -1 Difesa e l'Iniziativa di tutte le unità del suo esercito aumenta di 2,5% + 0,25% per livello dell'eroe.

@@ -1,0 +1,1 @@
+﻿L'eroe acquisisce gli incantesimi Respingi dardo di massa e Immunità magica al livello Esperto.<br><color_default>Il valore ATB dell'eroe viene ripristinato a 0,24 dopo aver lanciato qualsiasi incantesimo di massa indipendentemente dal livello di magia.

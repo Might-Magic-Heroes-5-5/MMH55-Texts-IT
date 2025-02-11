@@ -1,0 +1,1 @@
+﻿Consente all'eroe di apprendere qualsiasi incantesimo sconosciuto utilizzato da un eroe o una creatura nemica in combattimento, a condizione che siano soddisfatti tutti i prerequisiti per apprendere l'incantesimo e di vedere il contenuto dell'inventario nemico.

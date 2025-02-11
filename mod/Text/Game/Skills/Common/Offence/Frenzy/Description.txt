@@ -1,0 +1,1 @@
+﻿Il danno minimo e massimo inflitto da ogni unità sotto il controllo dell'eroe è aumentato di 1.

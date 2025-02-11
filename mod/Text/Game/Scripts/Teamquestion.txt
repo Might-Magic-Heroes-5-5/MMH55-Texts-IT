@@ -1,0 +1,1 @@
+﻿Ci sono più giocatori umani sulla mappa. Ti piacerebbe unirti a loro contro i giocatori dell'IA? (Premi sempre Annulla se questa mappa ha le proprie impostazioni di squadra!)

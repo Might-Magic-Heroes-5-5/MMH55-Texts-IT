@@ -1,0 +1,1 @@
+﻿Mistico: l'eroe inizia con +1 Fortuna e perde meno punti movimento quando usa l'abilità Rituale arcano. Il costo di movimento è ridotto di 2 per punto mana recuperato.

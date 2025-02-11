@@ -1,0 +1,1 @@
+﻿L'unità può resuscitare un gruppo alleato ucciso una volta per combattimento, a condizione che la casella in cui è stato ucciso il gruppo non sia occupata da altre unità (abilità da attivare). Il potere della resurrezione è pari alla dimensione del gruppo *80.

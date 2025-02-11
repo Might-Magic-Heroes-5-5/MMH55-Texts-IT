@@ -1,0 +1,1 @@
+﻿Teletrasporta l'eroe e tutto il suo esercito in un altro luogo sulla mappa avventura. La portata è di 8 caselle e costa anche il 20% dei punti movimento massimi dell'eroe.<color_default><br>Questo incantesimo richiede un eroe di livello 20 per essere appreso. Nessuna capacità magica richiesta

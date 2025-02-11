@@ -1,0 +1,1 @@
+﻿Le abilità di combattimento delle unità nell'esercito dell'eroe avranno una seconda possibilità di attivarsi ogni volta.<br><color_default>Ciò influisce su abilità come Colpo, Assalto, Paura e Marchio di fuoco.

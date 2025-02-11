@@ -1,0 +1,1 @@
+﻿Una vecchia strega che vive in una strana capanna ti dà il benvenuto ed è interessata alla tua ricerca, per i suoi scopi imperscrutabili si propone di insegnarti <value=skill> <value=maestry>. Accetti?

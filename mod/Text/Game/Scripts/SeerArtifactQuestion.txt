@@ -1,0 +1,1 @@
+﻿Il veggente è interessato a <color=white><value=qty> <value=type><color_default> che hai in possesso. Vorresti consegnarglieli?

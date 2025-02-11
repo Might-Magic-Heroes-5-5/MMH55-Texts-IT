@@ -1,0 +1,1 @@
+﻿<value=source_color><value=source> infligge <value=damage> danni a <value=target> e rallenta il suo turno.

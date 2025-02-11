@@ -1,0 +1,2 @@
+﻿Il Forte fornisce mura difensive alla città.<br><br>
+<color=0099FF>Governance<color_default><br>Concede al Governatore di questa città un bonus di Difesa di +1.

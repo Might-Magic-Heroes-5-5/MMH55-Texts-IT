@@ -1,0 +1,3 @@
+﻿+2 Potere magico<br>
+Consente di lanciare l'incantesimo <value=spell_name> di questa bacchetta ad un livello Avanzato (a meno che il livello di Maestria dell'eroe sia superiore). La bacchetta ha un numero limitato di utilizzi e può essere ricaricata presso una Gilda Magica (utilizza <value=charges_cur>/<value=charges_max>).
+<br><color_default>I Capoguerra non possono lanciare l'incantesimo ma ricevono il bonus Potere magico.

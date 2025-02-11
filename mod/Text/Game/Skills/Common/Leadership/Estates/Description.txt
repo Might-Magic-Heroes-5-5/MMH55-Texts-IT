@@ -1,0 +1,1 @@
+﻿L'eroe guadagna 250 Oro al giorno + una quantità aggiuntiva pari alla sua Conoscenza*25. L'eroe ottiene anche un bonus una tantum di Legno o Minerali, a seconda di quale scorta è più esaurita. La quantità è pari al livello dell'eroe.<br><color_default>Se le scorte di Legno e di Minerali sono uguali, entrambe aumenteranno della metà della quantità.

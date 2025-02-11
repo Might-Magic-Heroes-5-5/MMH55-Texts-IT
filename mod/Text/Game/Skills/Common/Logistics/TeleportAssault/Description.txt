@@ -1,0 +1,1 @@
+﻿L'eroe acquisisce l'incantesimo Teletrasporto e l'abilità di lanciarlo con effetto d'assalto, aumentando l'Iniziativa dell'unità teletrasportata.<br><color_default>Il bersaglio non può essere teletrasportato dietro le mura del castello, a meno che l'eroe non abbia imparato Magia oscura esperta. Il valore ATB del gruppo teletrasportato è aumentato di 0.5, fino ad un massimo di 1.

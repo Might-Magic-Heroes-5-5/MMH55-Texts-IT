@@ -1,0 +1,1 @@
+﻿Ogni volta che si attiva l'effetto Morale di una delle unità dell'esercito, questa guadagna 80 punti furia.

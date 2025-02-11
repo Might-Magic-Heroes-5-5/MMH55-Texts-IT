@@ -1,0 +1,1 @@
+﻿Danzatore del Fuoco: l'esercito dell'eroe subisce meno danni dagli attacchi a distanza, la riduzione del danno a distanza è del 15% + 0,5% per livello dell'eroe.

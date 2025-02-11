@@ -1,0 +1,1 @@
+﻿Impossibile caricare la mappa RMG, questo errore si è verificato perché 'RMGmap' è impostato su true in 'sRMGProps' nell'elenco delle proprietà della mappa mentre la mappa non è completamente non modificata, per risolvere questo problema impostalo su false nell'editor della mappa e forniscilo ad altri giocatori con una copia.

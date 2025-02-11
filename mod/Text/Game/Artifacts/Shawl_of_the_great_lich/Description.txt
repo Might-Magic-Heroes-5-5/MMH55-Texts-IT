@@ -1,0 +1,3 @@
+﻿+4 Conoscenza<br>
+Annulla l'immunità del nemico all'Attacco Mentale.<br><br><color=orange>
+Cavalieri neri<color_default><br>Brucia questo artefatto in un tempio ed evocherà un gruppo di Cavalieri neri. La dimensione del gruppo è pari a 2*numero di settimane trascorse.

@@ -1,0 +1,3 @@
+﻿<color_default>Potenziamento della Cittadella.<br> 
+<color_bright>Il Castello aggiunge due torri di guardia, fortifica le difese della città e raddoppia il ritmo di crescita delle unità.<br><br>
+<color=0099FF>Governance<color_default><br>Conferisce al Governatore di questa città un bonus di Difesa di +3.

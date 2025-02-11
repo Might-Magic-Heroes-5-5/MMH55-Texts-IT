@@ -1,0 +1,1 @@
+﻿Classe: Guardiano<br>Specializzazione: Ingannatore<br><br><body_bright>Ogni volta che l'eroe lancia un incantesimo di Magia della luce su un'unità amica, c'è la possibilità che l'incantesimo Potenza del giusto venga lanciato liberamente sull'unità colpita. La probabilità è del 40%+livello dell'eroe*1%.<br><color_default>Inizia con la Magia della luce di base.

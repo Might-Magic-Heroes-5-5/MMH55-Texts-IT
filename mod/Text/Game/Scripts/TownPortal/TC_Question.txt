@@ -1,0 +1,1 @@
+﻿Vuoi convertire questa città?<br>Costo = Oro: <value=gold>, Legno: <value=wood>, Minerale: <value=ore>, Mercurio: <value=mercury>, Cristallo: <value=crystal>, Zolfo: <value=sulphur>, Gemme: <value=gem><br><br>ATTENZIONE: rimuovi gli eserciti dalla guarnigione o moriranno!

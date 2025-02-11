@@ -1,0 +1,1 @@
+﻿<color_default>Riflette <value=damage>% di danni da ghiaccio agli attaccanti ravvicinati

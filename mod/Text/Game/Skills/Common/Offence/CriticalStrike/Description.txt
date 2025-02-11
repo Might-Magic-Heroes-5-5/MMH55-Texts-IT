@@ -1,0 +1,1 @@
+﻿L'eroe preferisce la sua arma invece che la magia. C'è una probabilità del 70% che l'eroe esegua un attacco critico infliggendo un doppio danno al bersaglio.

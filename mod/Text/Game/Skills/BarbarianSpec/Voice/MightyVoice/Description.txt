@@ -1,0 +1,1 @@
+﻿Mentre l'effetto del Grido di Battaglia viene calcolato, il livello dell'eroe barbaro è considerato di 10 livelli più alto di quello reale.

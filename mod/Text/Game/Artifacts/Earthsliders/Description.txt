@@ -1,0 +1,3 @@
+﻿+15% Danno degli incantesimi di Terra<br>
++2 Mana al giorno se equipaggiato ininterrottamente<br><color_default>
+L'aumento del danno influenza Spuntoni di pietra, Pioggia di meteore, Implosione e Deperimento

@@ -1,0 +1,1 @@
+﻿Tutte le unità amiche che si trovano nelle caselle adiacenti a questa unità non avranno mai un Morale negativo.

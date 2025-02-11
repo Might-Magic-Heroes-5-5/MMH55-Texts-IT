@@ -1,0 +1,1 @@
+﻿Questa unità non è viva e non subisce gli effetti di magie di Veleno, Cecità o Mentali. Queste unità non possono essere resuscitate o guarite dalla Tenda del Pronto soccorso.

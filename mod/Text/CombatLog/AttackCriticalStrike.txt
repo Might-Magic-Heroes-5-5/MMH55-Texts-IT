@@ -1,0 +1,1 @@
+﻿<value=source_color><value=source> colpisce <value=target> con Colpo straziante:<value=font> <value=damage> danni inflitti (morti: <value=dead>).

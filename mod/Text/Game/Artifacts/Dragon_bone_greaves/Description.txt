@@ -1,0 +1,9 @@
+﻿+2 Difesa<br>
++2 Potere magico<br>
++10% Iniziativa a tutte le unità a corto raggio non volanti dell'esercito<br><br><color=purple>
+Potere dei Draghi<color_default><br>
++2 a tutti gli attributi primari (4/8)<br>
++4 a tutti gli attributi primari (8/8)<br>
+*Il bonus del set viene applicato dopo aver chiuso la schermata Inventario.<br><br><color=orange>
+Missione<color_default><br>
+Offri tutti gli 8 pezzi del Potere dei Draghi a un Altare Sacrificale per una ricompensa unica.

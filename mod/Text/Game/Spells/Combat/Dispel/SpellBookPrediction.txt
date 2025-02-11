@@ -1,0 +1,1 @@
+﻿La probabilità di dispersione contro un incantatore di livello simile è di <value=enchant>%.

@@ -1,0 +1,1 @@
+﻿La sfera si è dissolta nella Fontana Magica e ha evocato <value=num> elementali.

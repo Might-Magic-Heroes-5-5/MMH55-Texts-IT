@@ -1,0 +1,1 @@
+﻿<color_default>Gli attacchi provocano Palla di fuoco per <value=damage> danni

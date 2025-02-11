@@ -1,0 +1,1 @@
+﻿Il danno subito da quest'unità diminuisce del 10% per ogni casella che l'attaccante ha dovuto coprire per colpire. La riduzione del danno è limitata all’80%.

@@ -1,0 +1,1 @@
+﻿Guardia di frontiera: l'eroe ha un bonus alla sua Difesa (+1 difesa per ogni 2 livelli dell'eroe) se i combattimenti sono a un giorno di distanza dalla propria città.

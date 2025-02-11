@@ -1,0 +1,1 @@
+﻿Gran Visir: all'inizio del combattimento l'eroe lancia Vampirismo su un gruppo amico di Geni, Geni sultani o Geni visir (ignorando i gruppi di una sola unità). L'incantesimo non costa mana e il valore ATB dell'eroe viene reimpostato su un valore casuale compreso tra 0,7 e 0,8 dopo aver lanciato l'incantesimo, ma l'abilità Rapidità di pensiero non ha effetto su questo eroe.

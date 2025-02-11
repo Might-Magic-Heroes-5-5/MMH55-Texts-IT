@@ -1,0 +1,1 @@
+﻿La resistenza magica aumenta di +24% per tutte le unità amiche sulle caselle adiacenti a questa unità.

@@ -1,0 +1,1 @@
+﻿Spezzamagie: l'eroe ha +1 Fortuna e se un eroe nemico lancia un incantesimo, può essere bloccato nel suo libro degli incantesimi rendendo impossibile lanciare nuovamente quell'incantesimo in questo combattimento. La probabilità di bloccare aumenta con il livello dell'eroe.

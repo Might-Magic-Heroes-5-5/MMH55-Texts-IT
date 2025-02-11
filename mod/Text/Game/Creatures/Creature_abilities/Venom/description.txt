@@ -1,0 +1,1 @@
+﻿Quando attacca un nemico, questa unità lo avvelena. Gli effetti perdurano per tre turni, infliggendo danno al bersaglio ad ogni suo turno. Il danno per turno è pari alla dimensione del gruppo*8. L'effetto del veleno può essere rimosso tramite Imposizione delle Mani e Tenda di Pronto Soccorso, ma non tramite Purificazione o Epurazione.

@@ -1,0 +1,1 @@
+﻿Classe: Capoguerra<br>Specializzazione: Lama del Khan<br><br><body_bright>I Massacratori, Carnefici e Capobanda nell'esercito dell'eroe ottengono +1 Attacco e Difesa per ogni due livelli dell'eroe, a partire dal primo livello.<br><color_default>Inizia con l'Attacco di base.

@@ -1,0 +1,1 @@
+﻿Tutte le creature infernali spendono solo il 50% del loro turno se usano l'abilità di invocazione (invece del 75%).

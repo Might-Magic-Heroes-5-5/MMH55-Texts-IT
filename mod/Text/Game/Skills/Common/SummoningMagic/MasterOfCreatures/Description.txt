@@ -1,0 +1,2 @@
+﻿L'eroe impara l'incantesimo Evocazione degli elementali e gli incantesimi Evoca Fenice, Evocazione degli elementali e Sciame di vespe verranno lanciati con +4 Potere magico effettivo.
+Se l'eroe apprende anche le abilità Maestro dei terremoti e Maestro della rovina, allora la sua dedizione nello studio dei poteri del Dio Drago della Terra lo ricompenserà con 8 cristalli di sangue del drago (Finchè l'eroe ha queste 3 abilità, tutte le gilde dei maghi evocheranno automaticamente le unità all'inizio di ogni settimana).

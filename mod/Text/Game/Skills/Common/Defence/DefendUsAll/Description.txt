@@ -1,0 +1,1 @@
+﻿Aumenta la Difesa dell'eroe di +2 e al livello 10, un Guerriero, Massacratore o Condottiero si unirà all'esercito dell'eroe ogni giorno, a condizione che l'eroe abbia già alcune di queste unità nel suo esercito.

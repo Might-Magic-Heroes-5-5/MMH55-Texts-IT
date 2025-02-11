@@ -1,0 +1,1 @@
+﻿Conferisce un'enorme quantità di furia a tutti gli Orchi nell'esercito dell'eroe, probabilmente portando la maggior parte di loro al livello di furia successivo. Inoltre aumenta il Morale di tutte le unità del suo esercito per due turni di 1 + 1 in più ogni 20 livelli (Il bonus Morale non funziona su unità non-morte, elementali e meccaniche).

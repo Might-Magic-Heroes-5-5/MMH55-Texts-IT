@@ -1,0 +1,1 @@
+﻿L'eroe non spende punti movimento per raccogliere risorse, entrare negli edifici o nelle navi e per eseguire altre azioni del genere. Toccata e fuga funziona anche in mare; il caricamento su una nave non utilizza punti movimento, ma lo sbarco costa un movimento base.

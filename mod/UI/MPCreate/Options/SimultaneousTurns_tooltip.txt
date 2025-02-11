@@ -1,0 +1,1 @@
+﻿Selezionando questa opzione abiliterai turni simultanei infiniti e permanenti, i turni simultanei non verranno interrotti quando gli eroi sono vicini l'uno all'altro. Attaccare altri giocatori mentre stanno utilizzando la schermata della città comporterà la perdita di punti movimento.

@@ -1,0 +1,1 @@
+﻿La Tenda di Pronto soccorso dell'eroe riceve l'abilità di danneggiare le unità nemiche. Il danno inflitto è lo stesso del potere curativo della Tenda. I colpi di peste non consumano i colpi di guarigione, ma non saranno utilizzabili quando finiranno i colpi di guarigione.

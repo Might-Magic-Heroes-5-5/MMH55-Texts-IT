@@ -1,0 +1,5 @@
+﻿Il Veggente è un appassionato collezionista di antichi manufatti ma sospetta che alcuni degli oggetti circolanti in queste terre possano essere falsi incantati. Ti chiederà quindi di portargli una quantità di oggetti simili per le sue ricerche.
+
+Attualmente sta cercando <color=white><value=qty> <value=type><color_default>
+
+Il veggente avrà varie ricompense da offrire al tuo ritorno.

@@ -1,0 +1,3 @@
+﻿+1 Morale
++1 Fortuna
++400 Punti movimento

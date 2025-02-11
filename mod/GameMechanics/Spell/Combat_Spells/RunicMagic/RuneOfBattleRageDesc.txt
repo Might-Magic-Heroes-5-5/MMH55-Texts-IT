@@ -1,0 +1,1 @@
+﻿Le unità avranno la possibilità di eseguire un attacco ravvicinato infliggendo il 50% del loro danno a tutti i nemici circostanti senza subire il cotrattacco.

@@ -1,0 +1,4 @@
+﻿Scegli il tuo premio
+
+OK = <value=qty_a> <value=type_a>
+Annulla = <value=qty_b> <value=type_b>

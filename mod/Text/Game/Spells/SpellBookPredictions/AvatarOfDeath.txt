@@ -1,0 +1,1 @@
+﻿Salute dell'Incarnazione: <value=health><br>Danno: <value=min_damage> - <value=max_damage>.

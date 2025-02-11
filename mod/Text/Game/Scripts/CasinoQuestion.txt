@@ -1,0 +1,10 @@
+﻿Benvenuto nel nostro Casinò, vorresti fare una scommessa in uno dei nostri giochi Little Wheel?
+
+-------------------------------------------------- -----------------------
+
+OK = Scommetti <value=bet> Oro su tutti i numeri pari (<value=chance>% di probabilità per <value=reward> Oro)
+Annulla = Lascia
+
+-------------------------------------------------- -----------------------
+
+Puoi piazzare una sola scommessa per Casinò. Per ogni prossimo Casinò che trovi sulla mappa dell'avventura puoi piazzare una scommessa più grande, indipendentemente dal fatto che tu abbia vinto o perso la scommessa precedente.

@@ -1,0 +1,1 @@
+﻿<value=target_color>Legame Spirituale:<body_bright> Il dolore di <value=source> aggiunge <value=damage> mana a <value=target>

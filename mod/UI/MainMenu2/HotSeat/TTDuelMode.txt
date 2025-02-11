@@ -1,0 +1,1 @@
+﻿Gioca un duello con un altro giocatore in condizioni perfettamente uguali. Per giocare contro IA attiva auto-combattimento per un giocatore.

@@ -1,0 +1,1 @@
+﻿Crea temporaneamente un muro lungo tre caselle sul punto selezionato. Il muro ha una riduzione del danno del 75% dagli attacchi magici e dalla distanza e restituisce un danno uguale al numero di punti ferita inflitti dagli attacchi ravvicinati. La barriera impedisce ai tiratori adiacenti di sparare.

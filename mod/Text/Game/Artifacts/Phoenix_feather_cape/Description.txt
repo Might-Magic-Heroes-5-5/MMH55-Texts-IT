@@ -1,0 +1,3 @@
+﻿+15% agli incantesimi del fuoco<br>
++2 Mana al giorno se equipaggiato ininterrottamente<br><color_default>
+L'aumento del danno influenza Palla di fuoco, Armageddon, Muro di fuoco e Trappola di fuoco.

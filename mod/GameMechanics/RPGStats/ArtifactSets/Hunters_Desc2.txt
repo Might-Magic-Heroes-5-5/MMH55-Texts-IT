@@ -1,0 +1,1 @@
+﻿Tutti i tiratori si muovono indietro sulla barra A del 30% in meno rispetto allo standard durante l'attacco. Ranger, Vendicatori e Druidi aumentano la loro Fortuna di +1.

@@ -1,0 +1,1 @@
+﻿Concede ai Druidi +1 Potere magico (cumulativo con più città, non richiede la visita della città) e fornisce +2 bonus di Fortuna all'esercito che difende questa città.

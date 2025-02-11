@@ -1,0 +1,1 @@
+﻿Rivela zone della mappa all'interno del raggio d'azione dell'Occhio del mago.

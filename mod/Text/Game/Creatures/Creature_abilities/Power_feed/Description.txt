@@ -1,0 +1,1 @@
+﻿L'unità può aumentare il Potere Magico dell'eroe di un valore pari al proprio, ma non più alto di 2/3 della Conoscenza dell'eroe. Sul campo di battaglia è necessaria un'altra unità con l'abilità Risucchia mana per soddisfare l'elevato costo di mana. L'effetto perdura fino alla fine del combattimento o finché l'unità non muore. Non è cumulabile (abilità da attivare).

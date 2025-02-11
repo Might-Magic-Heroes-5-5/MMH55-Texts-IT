@@ -1,0 +1,1 @@
+﻿Quando questa unità attacca un nemico, un incantesimo di Disperazione (di nessun livello) viene lanciato automaticamente il bersaglio.

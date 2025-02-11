@@ -1,0 +1,1 @@
+﻿<color=red>Mana insufficiente per resuscitare qualsiasi unità.

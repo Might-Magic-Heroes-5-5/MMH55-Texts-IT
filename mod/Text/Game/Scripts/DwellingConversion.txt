@@ -1,0 +1,1 @@
+﻿Vuoi convertire questo insediamento nella tua fazione?<br><br>Costi:<br>Oro: <value=gold>, Legno: <value=wood>, Minerale: <value=ore>

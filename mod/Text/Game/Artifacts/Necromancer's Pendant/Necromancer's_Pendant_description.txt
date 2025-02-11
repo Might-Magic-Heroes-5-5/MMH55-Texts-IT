@@ -1,0 +1,7 @@
+﻿+5% Negromanzia<br>
+-10% sui costi dell'energia oscura<br>
+Conferisce alle unità amiche l'immunità al Deperimento<br><br><color=purple>
+Abbraccio della Morte<color_default><br>
++6 Potere magico (3/6)<br>
++12 Potere magico (6/6)<br>
+*Il bonus del set viene applicato dopo aver chiuso la schermata Inventario.

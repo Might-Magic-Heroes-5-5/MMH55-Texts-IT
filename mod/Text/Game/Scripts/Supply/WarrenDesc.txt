@@ -1,0 +1,1 @@
+﻿Fornisce al giocatore una quantità casuale (3-7) di una risorsa casuale ogni settimana. Il tipo di risorsa non è mai Legno o Oro.

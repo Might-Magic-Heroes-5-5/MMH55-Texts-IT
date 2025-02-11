@@ -1,0 +1,5 @@
+﻿+2 Conoscenza<br>
++2 Morale<br><br><color=purple>
+Spirito del leone<color_default><br>
++6 Attacco (3/3)<br>
+*Il bonus del set viene applicato dopo aver chiuso la schermata Inventario.
