@@ -1,1 +1,1 @@
-﻿L'unità ottiene +100% di Attacco e di Difesa per un turno. L'incantesimo non funziona sui draghi.
+﻿Aumenta Attacco e Difesa di un'unità di 10 per un turno.

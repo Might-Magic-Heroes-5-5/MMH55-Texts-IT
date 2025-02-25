@@ -1,0 +1,1 @@
+﻿La creatura guadagna il 25% di resistenza magica fino alla fine del combattimento.

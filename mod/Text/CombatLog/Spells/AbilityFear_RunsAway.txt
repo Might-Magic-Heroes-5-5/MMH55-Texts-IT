@@ -1,0 +1,2 @@
+﻿<value=target_color>Effetto Paura:<body_bright> <value=target> scappa e il suo turno viene ritardato del <value=damage>% ATB.
+

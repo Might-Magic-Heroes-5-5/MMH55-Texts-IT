@@ -1,0 +1,2 @@
+﻿Seleziona la risoluzione dello schermo supportata dalla tua scheda video e dal monitor (più alto è questo valore, migliore sarà la qualità dell'immagine, ma a scapito delle prestazioni).  
+Questa opzione non viene utilizzata quando il gioco è giocato in modalità finestra. Se nel menu a tendina ci sono valori vuoti, torna al menu principale (dove puoi selezionare "Opzioni") e poi torna qui.

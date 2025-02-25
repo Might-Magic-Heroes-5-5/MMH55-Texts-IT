@@ -1,2 +1,2 @@
-﻿Questa è una mappa casuale MMH5.5, basata sul modello <value=template> creato da Advanced RMG v2.78 con le opzioni: 
+﻿Questa è una mappa casuale MMH5.5, basata sul modello <value=template> creato da Advanced RMG v2.79 con le opzioni: 
 dimensione <value=mapsize>, <value=underground>, <value=water>, con <value=monsterstrenght> mostri. La mappa è per <value=playerscount> giocatori. Codice di generazione <value=startseed>

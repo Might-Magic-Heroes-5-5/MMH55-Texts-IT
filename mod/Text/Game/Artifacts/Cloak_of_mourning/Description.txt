@@ -1,5 +1,6 @@
 ﻿-2 Morale alle unità nemiche<br>
--2 Fortuna alle unità nemiche<br><br>
+-2 Fortuna alle unità nemiche<br>
+-2 Difesa<br><br>
 <color=purple>Abbraccio della Morte<color_default><br>
 +6 Potere magico (3/6)<br>
 +12 Potere magico (6/6)<br>

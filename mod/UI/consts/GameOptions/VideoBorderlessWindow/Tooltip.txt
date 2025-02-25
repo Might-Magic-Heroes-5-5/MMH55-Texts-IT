@@ -1,1 +1,2 @@
-﻿Rimuove il bordo dalla finestra del gioco in modalità finestra.
+﻿In modalità finestra: Rimuove il bordo ma rende indisponibile il ridimensionamento.  
+In modalità schermo intero: Forzerà la modalità finestra con il valore di risoluzione attuale del monitor principale.
