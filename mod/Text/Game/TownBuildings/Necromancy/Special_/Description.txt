@@ -1,3 +1,3 @@
-﻿Aggiunge +5% alla capacità Negromanzia di tutti gli eroi sotto il controllo del giocatore e fornisce loro 100 punti aggiuntivi di Energia Oscura (cumulabile da tutte le città).<br><br>
-I Cavalieri della Morte e i Maghi Fatui senza la capacità Negromanzia otterranno +2 rigenerazione Mana al giorno (cumulativo con più città).<br><br>
+﻿Aggiunge +2% alla capacità Negromanzia di tutti gli eroi sotto il controllo del giocatore e fornisce loro 100 punti aggiuntivi di Energia Oscura (cumulabile da tutte le città).<br><br>
+I Cavalieri della Morte e i Maghi Fatui senza la capacità Negromanzia otterranno +4 rigenerazione Mana al giorno (cumulativo con più città).<br><br>
 <color=0099FF>Governance<color_default><br>Conferisce al Governatore di questa città un bonus di Conoscenza +2.

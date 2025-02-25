@@ -1,1 +1,1 @@
-﻿L'eroe guadagna +2 Conoscenza e guadagna 0,5 Oro al giorno per ogni scheletro del suo esercito. Gli eroi della Necropoli raccolgono anche una quantità aggiuntiva di scheletri ogni settimana. La quantità è pari alla loro Conoscenza.
+﻿L'eroe guadagna +2 Conoscenza, +5% di creature rianimate alla necromanzia e guadagna 0,5 Oro al giorno per ogni scheletro del suo esercito. Gli eroi della Necropoli raccolgono anche una quantità aggiuntiva di scheletri ogni settimana. La quantità è pari alla loro Conoscenza.

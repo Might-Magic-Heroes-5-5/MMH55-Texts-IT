@@ -1,1 +1,1 @@
-﻿Tutti gli incantesimi di Magia Oscura lanciati dal nemico vengono diminuiti di 2 livelli di destrezza (da Esperto a di Base, da Avanzato a Nullo ecc.). La potenza magica viene ulteriormente ridotta del 15% per ogni livello in cui un incantesimo finisce al di sotto del livello Nullo.
+﻿Il livello di maestria di tutti gli incantesimi di Magia Oscura nemici è ridotto di 2. La Potenza Magica è anche diminuita del 15% per ogni livello in cui un incantesimo scende sotto il livello minimo.

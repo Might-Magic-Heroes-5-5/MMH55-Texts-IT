@@ -1,0 +1,1 @@
+﻿Gioca in modalità schermo intero. Se disabilitata, verrà utilizzata la modalità finestra. In modalità finestra, la finestra del gioco può essere ridimensionata utilizzando il mouse per trascinare i bordi dello schermo.

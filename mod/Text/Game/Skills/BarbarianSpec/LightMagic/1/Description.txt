@@ -1,1 +1,1 @@
-﻿Tutti gli incantesimi di Luce dal 1° al 4° cerchio lanciati dal nemico vengono diminuiti di 1 livello di destrezza (da Esperto ad Avanzato ecc.). La potenza magica viene ulteriormente ridotta del 15% per ogni livello in cui un incantesimo finisce al di sotto del livello Nullo.
+﻿Il livello di maestria di tutti gli incantesimi di Magia della Luce nemici dal 4° al 5° cerchio è ridotto di 1. La Potenza Magica è anche diminuita del 15% per ogni livello in cui un incantesimo scende sotto il livello minimo.
