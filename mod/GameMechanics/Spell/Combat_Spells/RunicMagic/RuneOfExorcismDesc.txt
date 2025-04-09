@@ -1,0 +1,1 @@
+﻿Rimuove tutti gli effetti negativi imposti sulla creatura (solo quelli che possono essere annullati).

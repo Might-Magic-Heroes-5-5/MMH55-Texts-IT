@@ -1,5 +1,5 @@
-﻿-1 Fortuna<br>
-Annulla le penalità delle unità a lunga gittata dell'esercito.<br><br><color=purple>
+﻿-50% di penalità alla gittata per tutte le creature amiche che usano armi a distanza<br>
++1 danno a tutti gli Arcieri Arcani amichevoli<br><br><color=purple>
 Il sogno dell'arciere<color_default><br>
 +1 Fortuna (2/2)<br>
 *Il bonus del set viene applicato dopo aver chiuso la schermata Inventario.

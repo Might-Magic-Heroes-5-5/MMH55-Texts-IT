@@ -1,1 +1,1 @@
-﻿L'eroe guadagna +2 Potere magico e all'inizio di ogni settimana ulteriori Geni, Geni sultani o Geni Visir si uniranno all'esercito dell'eroe, a condizione che il l'eroe abbia già alcune di queste creature nel suo esercito. La quantità è pari a 0,2 * livello dell'eroe.
+﻿L'eroe guadagna +2 Potere magico e all'inizio di ogni settimana ulteriori Geni, Geni sultani o Geni Visir si uniranno all'esercito dell'eroe, a condizione che il l'eroe abbia già alcune di queste creature nel suo esercito. La quantità è pari a 0,33 * livello dell'eroe.

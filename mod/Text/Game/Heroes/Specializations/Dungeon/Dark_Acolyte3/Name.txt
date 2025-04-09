@@ -1,1 +1,1 @@
-﻿Classe: Guardiano della fiamma<br>Specializzazione: Mistico<br><br><body_bright>L'eroe inizia con +1 Fortuna e perde meno punti movimento quando usa l'abilità Rituale arcano. Il costo di movimento è ridotto di 2 per punto mana recuperato.<br><color_default>Inizia con l'abilità Rituale arcano.
+﻿Classe: Mago Fatuo<br>Specializzazione: Mistico<br><br><body_bright>L'eroe inizia con +1 Fortuna e perde meno punti movimento quando usa l'abilità Rituale arcano. Il costo di movimento è ridotto di 2 per punto mana recuperato.<br><color_default>Inizia con l'abilità Rituale arcano.

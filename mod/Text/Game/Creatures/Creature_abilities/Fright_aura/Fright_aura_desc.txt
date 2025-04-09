@@ -1,0 +1,1 @@
+﻿Tutti i nemici posizionati su tessere adiacenti a questa creatura vedono il loro morale ridotto di 2 (non influenza le creature il cui morale è sempre neutrale).
