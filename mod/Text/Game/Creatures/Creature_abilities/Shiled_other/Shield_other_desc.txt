@@ -1,0 +1,1 @@
+﻿Tutte le creature alleate nelle caselle adiacenti subiscono meno danni dagli attacchi a distanza non magici. La riduzione è pari al 2% per ogni unità nella pila, fino a un massimo del 50%.

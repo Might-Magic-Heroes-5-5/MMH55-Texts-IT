@@ -1,0 +1,1 @@
+﻿La creatura può curare completamente un’unità dalla pila alleata bersaglio e rimuovere gli effetti negativi, ma non gli incantesimi.
