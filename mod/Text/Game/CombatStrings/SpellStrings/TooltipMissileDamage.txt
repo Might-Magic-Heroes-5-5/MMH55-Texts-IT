@@ -1,0 +1,1 @@
+﻿Danni da distanza non magici ridotti di <damage> %.
